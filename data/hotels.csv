@@ -1,0 +1,601 @@
+﻿date,vendor_entity,location_city,location_subdivision,location_country,nights_stayed,room_count,custom_field_business_unit,custom_field_region
+2022-01-01,Hilton Hotels,Osaka-Kobe,,United States,15,1,Business Unit Charlie,Latin America
+2022-01-01,Best Western Hotels & Resorts,Chicago,,Mexico,24,1,Business Unit Delta ,Europe
+2022-01-01,Hilton Hotels,Houston,,United States,20,1,Business Unit Charlie,Latin America
+2022-01-01,InterContinental Hotels Group (IHG),Washington D.C.,,United States,21,1,Business Unit Alpha ,APAC
+2022-01-01,InterContinental Hotels Group (IHG),Tokyo,,United States,30,1,Business Unit Delta ,Latin America
+2022-01-01,Accor,Osaka-Kobe,,United Kingdom,23,1,Business Unit Bravo,North America
+2022-01-01,Choice Hotels International,Mumbai,,United States,21,1,Business Unit Delta ,APAC
+2022-01-01,Four Seasons,Beijing,,Argentina,25,1,Business Unit Alpha ,Europe
+2022-01-01,Hyatt Hotels Corporation,New York City,,China,25,1,Business Unit Charlie,North America
+2022-01-01,InterContinental Hotels Group (IHG),Sao Paulo,,United States,29,1,Business Unit Charlie,APAC
+2022-01-01,Choice Hotels International,Dallas-Fort Worth,,United States,25,1,Business Unit Echo,Europe
+2022-01-01,Best Western Hotels & Resorts,Hong Kong,,Mexico,20,1,Business Unit Bravo,Latin America
+2022-01-01,Choice Hotels International,Houston,,United States,27,1,Business Unit Delta ,Latin America
+2022-01-01,Hyatt Hotels Corporation,Shanghai,,China,18,1,Business Unit Delta ,North America
+2022-01-01,Jin Jiang International,Houston,,China,26,1,Business Unit Charlie,Latin America
+2022-01-01,Best Western Hotels & Resorts,Atlanta,,Mexico,23,1,Business Unit Charlie,North America
+2022-01-01,Best Western Hotels & Resorts,San Francisco Bay Area,,Mexico,20,1,Business Unit Echo,Latin America
+2022-01-01,Four Seasons,Beijing,,Argentina,27,1,Business Unit Bravo,Europe
+2022-01-01,Four Seasons,Buenos Aires,,Argentina,21,1,Business Unit Charlie,Europe
+2022-01-01,Jin Jiang International,Paris,,China,26,1,Business Unit Echo,North America
+2022-01-01,Ritz Carlton,Beijing,,United States,22,1,Business Unit Delta ,North America
+2022-01-01,Hyatt Hotels Corporation,Mexico City,,China,30,1,Business Unit Echo,North America
+2022-01-01,Best Western Hotels & Resorts,Atlanta,,Mexico,17,1,Business Unit Bravo,Europe
+2022-01-01,Four Seasons,Paris,,Argentina,24,1,Business Unit Charlie,APAC
+2022-01-01,Hyatt Hotels Corporation,Tokyo,,China,29,1,Business Unit Bravo,APAC
+2022-02-01,Marriott International,London,,Japan,27,1,Business Unit Alpha ,APAC
+2022-02-01,BTH Hotels,Los Angeles,,Japan,22,1,Business Unit Bravo,Latin America
+2022-02-01,Ritz Carlton,Mexico City,,United States,26,1,Business Unit Alpha ,Europe
+2022-02-01,Accor,Shanghai,,United Kingdom,27,1,Business Unit Delta ,APAC
+2022-02-01,Four Seasons,Philadelphia,,Argentina,25,1,Business Unit Bravo,Latin America
+2022-02-01,Ritz Carlton,Miami,,United States,21,1,Business Unit Alpha ,North America
+2022-02-01,Marriott International,Paris,,Japan,19,1,Business Unit Delta ,Europe
+2022-02-01,Ritz Carlton,Dallas-Fort Worth,,United States,17,1,Business Unit Echo,North America
+2022-02-01,Jin Jiang International,Buenos Aires,,China,22,1,Business Unit Charlie,Latin America
+2022-02-01,Hyatt Hotels Corporation,Hong Kong,,China,26,1,Business Unit Alpha ,APAC
+2022-02-01,Jin Jiang International,Osaka-Kobe,,China,21,1,Business Unit Echo,APAC
+2022-02-01,Hilton Hotels,San Francisco Bay Area,,United States,30,1,Business Unit Charlie,North America
+2022-02-01,Best Western Hotels & Resorts,Los Angeles,,Mexico,29,1,Business Unit Bravo,North America
+2022-02-01,Best Western Hotels & Resorts,Tokyo,,Mexico,20,1,Business Unit Charlie,Europe
+2022-02-01,Four Seasons,Mexico City,,Argentina,21,1,Business Unit Alpha ,Latin America
+2022-02-01,Best Western Hotels & Resorts,Mumbai,,Mexico,26,1,Business Unit Alpha ,Europe
+2022-02-01,InterContinental Hotels Group (IHG),Dallas-Fort Worth,,United States,25,1,Business Unit Delta ,Europe
+2022-02-01,Jin Jiang International,San Francisco Bay Area,,China,21,1,Business Unit Alpha ,APAC
+2022-02-01,Wyndham Hotels and Resorts,Los Angeles,,France,18,1,Business Unit Echo,Europe
+2022-02-01,Accor,Dallas-Fort Worth,,United Kingdom,18,1,Business Unit Alpha ,Europe
+2022-02-01,Choice Hotels International,Shanghai,,United States,26,1,Business Unit Echo,APAC
+2022-02-01,InterContinental Hotels Group (IHG),Sao Paulo,,United States,29,1,Business Unit Echo,APAC
+2022-02-01,Ritz Carlton,Houston,,United States,17,1,Business Unit Delta ,APAC
+2022-02-01,Hilton Hotels,Buenos Aires,,United States,23,1,Business Unit Echo,APAC
+2022-02-01,Accor,Mexico City,,United Kingdom,27,1,Business Unit Charlie,APAC
+2022-03-01,Ritz Carlton,Sao Paulo,,United States,29,1,Business Unit Alpha ,North America
+2022-03-01,Best Western Hotels & Resorts,Atlanta,,Mexico,30,1,Business Unit Bravo,Latin America
+2022-03-01,Best Western Hotels & Resorts,Chicago,,Mexico,20,1,Business Unit Alpha ,Europe
+2022-03-01,Best Western Hotels & Resorts,New York City,,Mexico,19,1,Business Unit Alpha ,North America
+2022-03-01,Marriott International,Beijing,,Japan,20,1,Business Unit Bravo,North America
+2022-03-01,Choice Hotels International,Tokyo,,United States,26,1,Business Unit Delta ,Latin America
+2022-03-01,BTH Hotels,Chicago,,Japan,26,1,Business Unit Alpha ,North America
+2022-03-01,InterContinental Hotels Group (IHG),Chicago,,United States,18,1,Business Unit Delta ,APAC
+2022-03-01,Hilton Hotels,Miami,,United States,24,1,Business Unit Bravo,North America
+2022-03-01,Hyatt Hotels Corporation,Jakarta,,China,25,1,Business Unit Charlie,APAC
+2022-03-01,Wyndham Hotels and Resorts,Toronto,,France,26,1,Business Unit Echo,Latin America
+2022-03-01,BTH Hotels,Beijing,,Japan,28,1,Business Unit Echo,North America
+2022-03-01,Ritz Carlton,New York City,,United States,17,1,Business Unit Alpha ,Europe
+2022-03-01,Marriott International,Seoul,,Japan,21,1,Business Unit Charlie,APAC
+2022-03-01,InterContinental Hotels Group (IHG),New York City,,United States,28,1,Business Unit Alpha ,APAC
+2022-03-01,InterContinental Hotels Group (IHG),Chicago,,United States,24,1,Business Unit Echo,Latin America
+2022-03-01,InterContinental Hotels Group (IHG),Los Angeles,,United States,19,1,Business Unit Delta ,APAC
+2022-03-01,Choice Hotels International,Mexico City,,United States,29,1,Business Unit Echo,APAC
+2022-03-01,Accor,Paris,,United Kingdom,27,1,Business Unit Alpha ,Europe
+2022-03-01,Best Western Hotels & Resorts,Dallas-Fort Worth,,Mexico,28,1,Business Unit Echo,Europe
+2022-03-01,Hyatt Hotels Corporation,London,,China,30,1,Business Unit Charlie,Europe
+2022-03-01,Hilton Hotels,Miami,,United States,22,1,Business Unit Alpha ,APAC
+2022-03-01,Wyndham Hotels and Resorts,Sao Paulo,,France,17,1,Business Unit Echo,North America
+2022-03-01,Hyatt Hotels Corporation,San Francisco Bay Area,,China,18,1,Business Unit Bravo,APAC
+2022-03-01,Marriott International,Shanghai,,Japan,21,1,Business Unit Echo,Europe
+2022-04-01,Hyatt Hotels Corporation,Mexico City,,China,26,1,Business Unit Alpha ,Latin America
+2022-04-01,Hyatt Hotels Corporation,Moscow,,China,21,1,Business Unit Alpha ,North America
+2022-04-01,Accor,Buenos Aires,,United Kingdom,15,1,Business Unit Bravo,North America
+2022-04-01,Ritz Carlton,Philadelphia,,United States,17,1,Business Unit Echo,North America
+2022-04-01,Wyndham Hotels and Resorts,New York City,,France,22,1,Business Unit Bravo,North America
+2022-04-01,Accor,Los Angeles,,United Kingdom,16,1,Business Unit Alpha ,Europe
+2022-04-01,Four Seasons,Houston,,Argentina,29,1,Business Unit Bravo,APAC
+2022-04-01,Accor,Buenos Aires,,United Kingdom,29,1,Business Unit Bravo,Latin America
+2022-04-01,Hilton Hotels,Mumbai,,United States,15,1,Business Unit Bravo,North America
+2022-04-01,Best Western Hotels & Resorts,Mexico City,,Mexico,24,1,Business Unit Echo,Latin America
+2022-04-01,Four Seasons,Atlanta,,Argentina,22,1,Business Unit Echo,North America
+2022-04-01,Choice Hotels International,Paris,,United States,25,1,Business Unit Alpha ,Latin America
+2022-04-01,Accor,Seoul,,United Kingdom,20,1,Business Unit Bravo,North America
+2022-04-01,Hyatt Hotels Corporation,Washington D.C.,,China,21,1,Business Unit Alpha ,Latin America
+2022-04-01,Four Seasons,Dallas-Fort Worth,,Argentina,26,1,Business Unit Alpha ,North America
+2022-04-01,Four Seasons,Beijing,,Argentina,19,1,Business Unit Charlie,North America
+2022-04-01,Wyndham Hotels and Resorts,New York City,,France,26,1,Business Unit Bravo,Europe
+2022-04-01,Hyatt Hotels Corporation,Mumbai,,China,27,1,Business Unit Charlie,Latin America
+2022-04-01,Wyndham Hotels and Resorts,Toronto,,France,19,1,Business Unit Alpha ,North America
+2022-04-01,Marriott International,Washington D.C.,,Japan,28,1,Business Unit Delta ,APAC
+2022-04-01,Accor,Chicago,,United Kingdom,15,1,Business Unit Bravo,North America
+2022-04-01,Four Seasons,Seoul,,Argentina,30,1,Business Unit Bravo,North America
+2022-04-01,BTH Hotels,Osaka-Kobe,,Japan,21,1,Business Unit Charlie,Europe
+2022-04-01,Accor,Osaka-Kobe,,United Kingdom,30,1,Business Unit Delta ,APAC
+2022-04-01,Hyatt Hotels Corporation,Buenos Aires,,China,29,1,Business Unit Charlie,Europe
+2022-05-01,Hyatt Hotels Corporation,Atlanta,,China,28,1,Business Unit Bravo,North America
+2022-05-01,Hilton Hotels,Washington D.C.,,United States,26,1,Business Unit Echo,Latin America
+2022-05-01,InterContinental Hotels Group (IHG),Beijing,,United States,30,1,Business Unit Echo,Europe
+2022-05-01,Hilton Hotels,Mumbai,,United States,19,1,Business Unit Echo,North America
+2022-05-01,InterContinental Hotels Group (IHG),San Francisco Bay Area,,United States,27,1,Business Unit Delta ,North America
+2022-05-01,Jin Jiang International,London,,China,23,1,Business Unit Charlie,APAC
+2022-05-01,Jin Jiang International,London,,China,28,1,Business Unit Delta ,North America
+2022-05-01,InterContinental Hotels Group (IHG),Miami,,United States,29,1,Business Unit Alpha ,North America
+2022-05-01,Jin Jiang International,Sao Paulo,,China,24,1,Business Unit Bravo,APAC
+2022-05-01,Choice Hotels International,Philadelphia,,United States,24,1,Business Unit Echo,North America
+2022-05-01,Hyatt Hotels Corporation,Shanghai,,China,15,1,Business Unit Delta ,APAC
+2022-05-01,Marriott International,New York City,,Japan,27,1,Business Unit Delta ,Europe
+2022-05-01,Marriott International,Buenos Aires,,Japan,29,1,Business Unit Echo,Europe
+2022-05-01,BTH Hotels,Paris,,Japan,27,1,Business Unit Charlie,North America
+2022-05-01,Four Seasons,San Francisco Bay Area,,Argentina,20,1,Business Unit Echo,APAC
+2022-05-01,Marriott International,Los Angeles,,Japan,29,1,Business Unit Echo,APAC
+2022-05-01,Accor,Mumbai,,United Kingdom,17,1,Business Unit Charlie,North America
+2022-05-01,InterContinental Hotels Group (IHG),Seoul,,United States,23,1,Business Unit Alpha ,APAC
+2022-05-01,Four Seasons,Jakarta,,Argentina,21,1,Business Unit Bravo,Latin America
+2022-05-01,Choice Hotels International,Hong Kong,,United States,17,1,Business Unit Echo,Europe
+2022-05-01,Marriott International,Moscow,,Japan,29,1,Business Unit Alpha ,Latin America
+2022-05-01,Wyndham Hotels and Resorts,Los Angeles,,France,18,1,Business Unit Charlie,APAC
+2022-05-01,Accor,Philadelphia,,United Kingdom,27,1,Business Unit Bravo,APAC
+2022-05-01,Hyatt Hotels Corporation,Dallas-Fort Worth,,China,29,1,Business Unit Alpha ,Latin America
+2022-05-01,Hilton Hotels,Washington D.C.,,United States,27,1,Business Unit Bravo,Europe
+2022-06-01,BTH Hotels,Mexico City,,Japan,28,1,Business Unit Bravo,APAC
+2022-06-01,BTH Hotels,Mexico City,,Japan,18,1,Business Unit Charlie,Europe
+2022-06-01,Choice Hotels International,Chicago,,United States,26,1,Business Unit Charlie,APAC
+2022-06-01,Hilton Hotels,Shanghai,,United States,28,1,Business Unit Charlie,Europe
+2022-06-01,InterContinental Hotels Group (IHG),Washington D.C.,,United States,29,1,Business Unit Charlie,Europe
+2022-06-01,Hilton Hotels,Philadelphia,,United States,21,1,Business Unit Delta ,Latin America
+2022-06-01,Accor,Los Angeles,,United Kingdom,28,1,Business Unit Charlie,Europe
+2022-06-01,Four Seasons,Hong Kong,,Argentina,16,1,Business Unit Echo,Europe
+2022-06-01,Best Western Hotels & Resorts,Jakarta,,Mexico,29,1,Business Unit Alpha ,Europe
+2022-06-01,Hyatt Hotels Corporation,Houston,,China,27,1,Business Unit Charlie,Europe
+2022-06-01,Accor,Atlanta,,United Kingdom,17,1,Business Unit Delta ,Europe
+2022-06-01,Best Western Hotels & Resorts,Mumbai,,Mexico,25,1,Business Unit Bravo,APAC
+2022-06-01,Jin Jiang International,Osaka-Kobe,,China,20,1,Business Unit Echo,North America
+2022-06-01,Four Seasons,Seoul,,Argentina,24,1,Business Unit Alpha ,North America
+2022-06-01,Ritz Carlton,Jakarta,,United States,17,1,Business Unit Bravo,Europe
+2022-06-01,Four Seasons,Seoul,,Argentina,15,1,Business Unit Delta ,North America
+2022-06-01,Best Western Hotels & Resorts,Shanghai,,Mexico,15,1,Business Unit Delta ,North America
+2022-06-01,InterContinental Hotels Group (IHG),San Francisco Bay Area,,United States,17,1,Business Unit Charlie,North America
+2022-06-01,Jin Jiang International,Houston,,China,30,1,Business Unit Delta ,Latin America
+2022-06-01,Jin Jiang International,Sao Paulo,,China,24,1,Business Unit Delta ,Latin America
+2022-06-01,Hyatt Hotels Corporation,Sao Paulo,,China,30,1,Business Unit Echo,Europe
+2022-06-01,Hilton Hotels,Shanghai,,United States,29,1,Business Unit Alpha ,APAC
+2022-06-01,Hilton Hotels,Shanghai,,United States,25,1,Business Unit Bravo,Europe
+2022-06-01,BTH Hotels,Philadelphia,,Japan,21,1,Business Unit Charlie,Latin America
+2022-06-01,Best Western Hotels & Resorts,Mumbai,,Mexico,29,1,Business Unit Charlie,North America
+2022-07-01,Hyatt Hotels Corporation,Atlanta,,China,25,1,Business Unit Bravo,Latin America
+2022-07-01,Hyatt Hotels Corporation,Atlanta,,China,23,1,Business Unit Delta ,APAC
+2022-07-01,Choice Hotels International,Mumbai,,United States,21,1,Business Unit Charlie,North America
+2022-07-01,Best Western Hotels & Resorts,Miami,,Mexico,22,1,Business Unit Delta ,APAC
+2022-07-01,Choice Hotels International,Philadelphia,,United States,27,1,Business Unit Echo,APAC
+2022-07-01,Marriott International,Los Angeles,,Japan,24,1,Business Unit Alpha ,Europe
+2022-07-01,Hilton Hotels,Shanghai,,United States,15,1,Business Unit Alpha ,Europe
+2022-07-01,Four Seasons,Houston,,Argentina,19,1,Business Unit Alpha ,Latin America
+2022-07-01,Four Seasons,Los Angeles,,Argentina,15,1,Business Unit Echo,Latin America
+2022-07-01,Ritz Carlton,Mexico City,,United States,28,1,Business Unit Charlie,Europe
+2022-07-01,BTH Hotels,Washington D.C.,,Japan,18,1,Business Unit Charlie,North America
+2022-07-01,Ritz Carlton,Beijing,,United States,19,1,Business Unit Alpha ,North America
+2022-07-01,Choice Hotels International,Houston,,United States,24,1,Business Unit Bravo,Europe
+2022-07-01,Hyatt Hotels Corporation,Jakarta,,China,21,1,Business Unit Alpha ,APAC
+2022-07-01,Hilton Hotels,Sao Paulo,,United States,30,1,Business Unit Echo,North America
+2022-07-01,Hilton Hotels,Osaka-Kobe,,United States,19,1,Business Unit Echo,APAC
+2022-07-01,Jin Jiang International,London,,China,30,1,Business Unit Echo,Latin America
+2022-07-01,Ritz Carlton,Osaka-Kobe,,United States,26,1,Business Unit Echo,Latin America
+2022-07-01,Jin Jiang International,Sao Paulo,,China,22,1,Business Unit Alpha ,APAC
+2022-07-01,Ritz Carlton,London,,United States,18,1,Business Unit Echo,APAC
+2022-07-01,Marriott International,Jakarta,,Japan,17,1,Business Unit Alpha ,Latin America
+2022-07-01,Hilton Hotels,Washington D.C.,,United States,28,1,Business Unit Charlie,Latin America
+2022-07-01,Wyndham Hotels and Resorts,Buenos Aires,,France,19,1,Business Unit Delta ,APAC
+2022-07-01,Ritz Carlton,Atlanta,,United States,23,1,Business Unit Bravo,North America
+2022-07-01,Best Western Hotels & Resorts,Paris,,Mexico,26,1,Business Unit Echo,North America
+2022-08-01,Four Seasons,Hong Kong,,Argentina,26,1,Business Unit Echo,APAC
+2022-08-01,Choice Hotels International,Los Angeles,,United States,24,1,Business Unit Alpha ,North America
+2022-08-01,Four Seasons,London,,Argentina,16,1,Business Unit Alpha ,Latin America
+2022-08-01,Wyndham Hotels and Resorts,Tokyo,,France,20,1,Business Unit Bravo,North America
+2022-08-01,Jin Jiang International,Buenos Aires,,China,17,1,Business Unit Charlie,Latin America
+2022-08-01,Best Western Hotels & Resorts,Philadelphia,,Mexico,15,1,Business Unit Delta ,Europe
+2022-08-01,InterContinental Hotels Group (IHG),Houston,,United States,17,1,Business Unit Bravo,Europe
+2022-08-01,Accor,Hong Kong,,United Kingdom,18,1,Business Unit Echo,North America
+2022-08-01,Marriott International,Los Angeles,,Japan,30,1,Business Unit Alpha ,Europe
+2022-08-01,Four Seasons,San Francisco Bay Area,,Argentina,20,1,Business Unit Charlie,North America
+2022-08-01,Ritz Carlton,Houston,,United States,30,1,Business Unit Echo,Latin America
+2022-08-01,Best Western Hotels & Resorts,New York City,,Mexico,29,1,Business Unit Delta ,North America
+2022-08-01,Hilton Hotels,Mumbai,,United States,17,1,Business Unit Alpha ,APAC
+2022-08-01,Four Seasons,Shanghai,,Argentina,30,1,Business Unit Charlie,Europe
+2022-08-01,Choice Hotels International,Sao Paulo,,United States,16,1,Business Unit Echo,North America
+2022-08-01,Ritz Carlton,Los Angeles,,United States,27,1,Business Unit Alpha ,APAC
+2022-08-01,Accor,Hong Kong,,United Kingdom,21,1,Business Unit Echo,North America
+2022-08-01,Marriott International,Shanghai,,Japan,16,1,Business Unit Echo,Europe
+2022-08-01,Best Western Hotels & Resorts,Atlanta,,Mexico,23,1,Business Unit Delta ,Europe
+2022-08-01,Marriott International,Sao Paulo,,Japan,29,1,Business Unit Delta ,APAC
+2022-08-01,InterContinental Hotels Group (IHG),Washington D.C.,,United States,19,1,Business Unit Bravo,North America
+2022-08-01,Choice Hotels International,Mexico City,,United States,26,1,Business Unit Bravo,North America
+2022-08-01,Hilton Hotels,San Francisco Bay Area,,United States,19,1,Business Unit Charlie,North America
+2022-08-01,Four Seasons,Atlanta,,Argentina,19,1,Business Unit Delta ,APAC
+2022-08-01,Best Western Hotels & Resorts,Sao Paulo,,Mexico,15,1,Business Unit Charlie,APAC
+2022-09-01,Wyndham Hotels and Resorts,Buenos Aires,,France,16,1,Business Unit Echo,North America
+2022-09-01,Marriott International,Sao Paulo,,Japan,24,1,Business Unit Bravo,APAC
+2022-09-01,InterContinental Hotels Group (IHG),Miami,,United States,19,1,Business Unit Bravo,Europe
+2022-09-01,Hilton Hotels,Shanghai,,United States,25,1,Business Unit Echo,Europe
+2022-09-01,Four Seasons,Miami,,Argentina,23,1,Business Unit Echo,APAC
+2022-09-01,BTH Hotels,Philadelphia,,Japan,18,1,Business Unit Bravo,North America
+2022-09-01,InterContinental Hotels Group (IHG),Philadelphia,,United States,29,1,Business Unit Alpha ,Latin America
+2022-09-01,Accor,Osaka-Kobe,,United Kingdom,24,1,Business Unit Delta ,Europe
+2022-09-01,Accor,Buenos Aires,,United Kingdom,28,1,Business Unit Echo,APAC
+2022-09-01,BTH Hotels,New York City,,Japan,25,1,Business Unit Echo,Latin America
+2022-09-01,Wyndham Hotels and Resorts,London,,France,23,1,Business Unit Delta ,APAC
+2022-09-01,Best Western Hotels & Resorts,Shanghai,,Mexico,22,1,Business Unit Charlie,Latin America
+2022-09-01,Hyatt Hotels Corporation,Toronto,,China,27,1,Business Unit Bravo,APAC
+2022-09-01,Wyndham Hotels and Resorts,Mumbai,,France,15,1,Business Unit Alpha ,APAC
+2022-09-01,Hilton Hotels,Osaka-Kobe,,United States,29,1,Business Unit Alpha ,Europe
+2022-09-01,Four Seasons,Tokyo,,Argentina,25,1,Business Unit Delta ,Europe
+2022-09-01,Ritz Carlton,Sao Paulo,,United States,17,1,Business Unit Echo,Europe
+2022-09-01,InterContinental Hotels Group (IHG),Mumbai,,United States,18,1,Business Unit Echo,Latin America
+2022-09-01,Marriott International,Hong Kong,,Japan,28,1,Business Unit Bravo,Latin America
+2022-09-01,InterContinental Hotels Group (IHG),Sao Paulo,,United States,25,1,Business Unit Bravo,Latin America
+2022-09-01,Choice Hotels International,Mumbai,,United States,29,1,Business Unit Bravo,APAC
+2022-09-01,Ritz Carlton,Hong Kong,,United States,21,1,Business Unit Echo,APAC
+2022-09-01,Hyatt Hotels Corporation,Seoul,,China,25,1,Business Unit Bravo,Europe
+2022-09-01,Choice Hotels International,Sao Paulo,,United States,17,1,Business Unit Delta ,North America
+2022-09-01,Four Seasons,Shanghai,,Argentina,19,1,Business Unit Delta ,North America
+2022-10-01,Wyndham Hotels and Resorts,Washington D.C.,,France,22,1,Business Unit Bravo,North America
+2022-10-01,Marriott International,Houston,,Japan,15,1,Business Unit Delta ,Latin America
+2022-10-01,Wyndham Hotels and Resorts,Houston,,France,27,1,Business Unit Alpha ,Latin America
+2022-10-01,Hilton Hotels,Houston,,United States,19,1,Business Unit Delta ,APAC
+2022-10-01,Best Western Hotels & Resorts,Dallas-Fort Worth,,Mexico,19,1,Business Unit Alpha ,North America
+2022-10-01,Four Seasons,Houston,,Argentina,17,1,Business Unit Echo,North America
+2022-10-01,Marriott International,Toronto,,Japan,26,1,Business Unit Delta ,Europe
+2022-10-01,Marriott International,Sao Paulo,,Japan,15,1,Business Unit Charlie,APAC
+2022-10-01,Ritz Carlton,Dallas-Fort Worth,,United States,16,1,Business Unit Bravo,North America
+2022-10-01,Hyatt Hotels Corporation,Toronto,,China,27,1,Business Unit Alpha ,APAC
+2022-10-01,Wyndham Hotels and Resorts,Houston,,France,22,1,Business Unit Delta ,North America
+2022-10-01,BTH Hotels,Hong Kong,,Japan,30,1,Business Unit Bravo,Latin America
+2022-10-01,Wyndham Hotels and Resorts,Los Angeles,,France,17,1,Business Unit Charlie,North America
+2022-10-01,Jin Jiang International,New York City,,China,23,1,Business Unit Charlie,North America
+2022-10-01,Best Western Hotels & Resorts,Seoul,,Mexico,16,1,Business Unit Echo,Europe
+2022-10-01,Jin Jiang International,Shanghai,,China,22,1,Business Unit Charlie,APAC
+2022-10-01,Marriott International,Beijing,,Japan,20,1,Business Unit Echo,Latin America
+2022-10-01,Four Seasons,Toronto,,Argentina,18,1,Business Unit Delta ,Latin America
+2022-10-01,Best Western Hotels & Resorts,Paris,,Mexico,23,1,Business Unit Bravo,North America
+2022-10-01,Ritz Carlton,Houston,,United States,26,1,Business Unit Bravo,Europe
+2022-10-01,Hyatt Hotels Corporation,Tokyo,,China,22,1,Business Unit Delta ,Europe
+2022-10-01,InterContinental Hotels Group (IHG),Atlanta,,United States,30,1,Business Unit Charlie,Latin America
+2022-10-01,Choice Hotels International,Buenos Aires,,United States,21,1,Business Unit Alpha ,Latin America
+2022-10-01,Best Western Hotels & Resorts,Mexico City,,Mexico,16,1,Business Unit Charlie,Latin America
+2022-10-01,Four Seasons,Houston,,Argentina,23,1,Business Unit Charlie,Latin America
+2022-11-01,Hilton Hotels,Dallas-Fort Worth,,United States,27,1,Business Unit Charlie,Latin America
+2022-11-01,Hyatt Hotels Corporation,Miami,,China,29,1,Business Unit Delta ,Latin America
+2022-11-01,Jin Jiang International,New York City,,China,29,1,Business Unit Alpha ,North America
+2022-11-01,Choice Hotels International,Mexico City,,United States,25,1,Business Unit Alpha ,Europe
+2022-11-01,Ritz Carlton,Beijing,,United States,26,1,Business Unit Charlie,Latin America
+2022-11-01,BTH Hotels,Toronto,,Japan,26,1,Business Unit Alpha ,North America
+2022-11-01,Four Seasons,Miami,,Argentina,15,1,Business Unit Bravo,Europe
+2022-11-01,Choice Hotels International,Atlanta,,United States,16,1,Business Unit Alpha ,North America
+2022-11-01,Marriott International,Moscow,,Japan,27,1,Business Unit Echo,APAC
+2022-11-01,Accor,Moscow,,United Kingdom,30,1,Business Unit Bravo,Latin America
+2022-11-01,BTH Hotels,Chicago,,Japan,16,1,Business Unit Bravo,North America
+2022-11-01,Four Seasons,Washington D.C.,,Argentina,22,1,Business Unit Charlie,North America
+2022-11-01,Hyatt Hotels Corporation,Seoul,,China,21,1,Business Unit Charlie,Latin America
+2022-11-01,Four Seasons,Shanghai,,Argentina,21,1,Business Unit Echo,North America
+2022-11-01,Marriott International,Chicago,,Japan,23,1,Business Unit Alpha ,North America
+2022-11-01,Choice Hotels International,Paris,,United States,28,1,Business Unit Bravo,APAC
+2022-11-01,Best Western Hotels & Resorts,San Francisco Bay Area,,Mexico,23,1,Business Unit Echo,APAC
+2022-11-01,InterContinental Hotels Group (IHG),Tokyo,,United States,15,1,Business Unit Bravo,Latin America
+2022-11-01,Ritz Carlton,Paris,,United States,27,1,Business Unit Bravo,Europe
+2022-11-01,Best Western Hotels & Resorts,Washington D.C.,,Mexico,18,1,Business Unit Alpha ,Europe
+2022-11-01,InterContinental Hotels Group (IHG),Chicago,,United States,21,1,Business Unit Charlie,North America
+2022-11-01,Accor,London,,United Kingdom,30,1,Business Unit Echo,Latin America
+2022-11-01,Accor,Mexico City,,United Kingdom,22,1,Business Unit Alpha ,APAC
+2022-11-01,Wyndham Hotels and Resorts,Shanghai,,France,30,1,Business Unit Bravo,Europe
+2022-11-01,Best Western Hotels & Resorts,Beijing,,Mexico,30,1,Business Unit Charlie,Latin America
+2022-12-01,Wyndham Hotels and Resorts,Buenos Aires,,France,23,1,Business Unit Bravo,APAC
+2022-12-01,Ritz Carlton,Sao Paulo,,United States,30,1,Business Unit Charlie,Latin America
+2022-12-01,BTH Hotels,Shanghai,,Japan,17,1,Business Unit Alpha ,North America
+2022-12-01,InterContinental Hotels Group (IHG),Washington D.C.,,United States,18,1,Business Unit Bravo,APAC
+2022-12-01,Four Seasons,Chicago,,Argentina,27,1,Business Unit Delta ,Europe
+2022-12-01,InterContinental Hotels Group (IHG),Miami,,United States,24,1,Business Unit Echo,APAC
+2022-12-01,Jin Jiang International,New York City,,China,21,1,Business Unit Alpha ,APAC
+2022-12-01,Best Western Hotels & Resorts,Hong Kong,,Mexico,27,1,Business Unit Alpha ,North America
+2022-12-01,BTH Hotels,Moscow,,Japan,30,1,Business Unit Echo,Latin America
+2022-12-01,Wyndham Hotels and Resorts,San Francisco Bay Area,,France,26,1,Business Unit Charlie,North America
+2022-12-01,Jin Jiang International,Seoul,,China,15,1,Business Unit Alpha ,Europe
+2022-12-01,InterContinental Hotels Group (IHG),Miami,,United States,15,1,Business Unit Delta ,APAC
+2022-12-01,BTH Hotels,Osaka-Kobe,,Japan,24,1,Business Unit Delta ,Latin America
+2022-12-01,Marriott International,Hong Kong,,Japan,16,1,Business Unit Echo,Latin America
+2022-12-01,Hilton Hotels,Mexico City,,United States,17,1,Business Unit Echo,Latin America
+2022-12-01,Hilton Hotels,Dallas-Fort Worth,,United States,21,1,Business Unit Bravo,APAC
+2022-12-01,Hilton Hotels,Dallas-Fort Worth,,United States,15,1,Business Unit Alpha ,North America
+2022-12-01,Hilton Hotels,Chicago,,United States,20,1,Business Unit Charlie,Europe
+2022-12-01,Four Seasons,Osaka-Kobe,,Argentina,24,1,Business Unit Bravo,Europe
+2022-12-01,Jin Jiang International,Dallas-Fort Worth,,China,28,1,Business Unit Bravo,North America
+2022-12-01,Jin Jiang International,Paris,,China,27,1,Business Unit Delta ,North America
+2022-12-01,Best Western Hotels & Resorts,London,,Mexico,16,1,Business Unit Echo,APAC
+2022-12-01,Best Western Hotels & Resorts,Atlanta,,Mexico,24,1,Business Unit Charlie,North America
+2022-12-01,Jin Jiang International,Sao Paulo,,China,29,1,Business Unit Alpha ,North America
+2022-12-01,Choice Hotels International,New York City,,United States,18,1,Business Unit Delta ,North America
+2023-01-01,Hyatt Hotels Corporation,Atlanta,,China,22,1,Business Unit Bravo,North America
+2023-01-01,Wyndham Hotels and Resorts,Houston,,France,24,1,Business Unit Charlie,Europe
+2023-01-01,Hyatt Hotels Corporation,Seoul,,China,24,1,Business Unit Alpha ,Europe
+2023-01-01,Four Seasons,San Francisco Bay Area,,Argentina,26,1,Business Unit Bravo,APAC
+2023-01-01,Wyndham Hotels and Resorts,Jakarta,,France,20,1,Business Unit Charlie,APAC
+2023-01-01,Jin Jiang International,Atlanta,,China,15,1,Business Unit Echo,Latin America
+2023-01-01,Four Seasons,San Francisco Bay Area,,Argentina,15,1,Business Unit Alpha ,North America
+2023-01-01,Accor,Houston,,United Kingdom,26,1,Business Unit Delta ,APAC
+2023-01-01,Ritz Carlton,Atlanta,,United States,22,1,Business Unit Bravo,North America
+2023-01-01,Best Western Hotels & Resorts,Dallas-Fort Worth,,Mexico,21,1,Business Unit Echo,Europe
+2023-01-01,InterContinental Hotels Group (IHG),Sao Paulo,,United States,20,1,Business Unit Bravo,Europe
+2023-01-01,BTH Hotels,Chicago,,Japan,29,1,Business Unit Charlie,APAC
+2023-01-01,Marriott International,Chicago,,Japan,25,1,Business Unit Delta ,Latin America
+2023-01-01,Four Seasons,Shanghai,,Argentina,21,1,Business Unit Charlie,Latin America
+2023-01-01,Best Western Hotels & Resorts,Sao Paulo,,Mexico,19,1,Business Unit Echo,Latin America
+2023-01-01,Four Seasons,Sao Paulo,,Argentina,18,1,Business Unit Bravo,North America
+2023-01-01,BTH Hotels,Buenos Aires,,Japan,23,1,Business Unit Charlie,Europe
+2023-01-01,Hilton Hotels,Mexico City,,United States,21,1,Business Unit Alpha ,North America
+2023-01-01,Wyndham Hotels and Resorts,Shanghai,,France,22,1,Business Unit Charlie,North America
+2023-01-01,InterContinental Hotels Group (IHG),Washington D.C.,,United States,25,1,Business Unit Charlie,APAC
+2023-01-01,Ritz Carlton,Dallas-Fort Worth,,United States,21,1,Business Unit Echo,APAC
+2023-01-01,BTH Hotels,Tokyo,,Japan,23,1,Business Unit Alpha ,Europe
+2023-01-01,Four Seasons,Dallas-Fort Worth,,Argentina,29,1,Business Unit Bravo,Latin America
+2023-01-01,Ritz Carlton,Los Angeles,,United States,19,1,Business Unit Charlie,Europe
+2023-01-01,Marriott International,Tokyo,,Japan,18,1,Business Unit Delta ,APAC
+2023-02-01,Hyatt Hotels Corporation,Shanghai,,China,18,1,Business Unit Echo,Europe
+2023-02-01,Wyndham Hotels and Resorts,Hong Kong,,France,19,1,Business Unit Bravo,North America
+2023-02-01,Hilton Hotels,Dallas-Fort Worth,,United States,17,1,Business Unit Alpha ,Europe
+2023-02-01,Wyndham Hotels and Resorts,Paris,,France,22,1,Business Unit Alpha ,North America
+2023-02-01,Hyatt Hotels Corporation,Sao Paulo,,China,17,1,Business Unit Alpha ,Latin America
+2023-02-01,InterContinental Hotels Group (IHG),New York City,,United States,17,1,Business Unit Bravo,Europe
+2023-02-01,Hilton Hotels,Houston,,United States,19,1,Business Unit Echo,Europe
+2023-02-01,BTH Hotels,Tokyo,,Japan,22,1,Business Unit Delta ,North America
+2023-02-01,Hilton Hotels,Beijing,,United States,15,1,Business Unit Charlie,Latin America
+2023-02-01,Accor,Tokyo,,United Kingdom,27,1,Business Unit Alpha ,APAC
+2023-02-01,Hyatt Hotels Corporation,Chicago,,China,18,1,Business Unit Charlie,Europe
+2023-02-01,Wyndham Hotels and Resorts,Toronto,,France,25,1,Business Unit Bravo,Latin America
+2023-02-01,InterContinental Hotels Group (IHG),Jakarta,,United States,17,1,Business Unit Bravo,North America
+2023-02-01,Hilton Hotels,Mexico City,,United States,22,1,Business Unit Bravo,Europe
+2023-02-01,Jin Jiang International,Atlanta,,China,28,1,Business Unit Delta ,Europe
+2023-02-01,InterContinental Hotels Group (IHG),Jakarta,,United States,30,1,Business Unit Alpha ,North America
+2023-02-01,Wyndham Hotels and Resorts,Osaka-Kobe,,France,23,1,Business Unit Charlie,APAC
+2023-02-01,Hilton Hotels,Paris,,United States,22,1,Business Unit Charlie,APAC
+2023-02-01,Best Western Hotels & Resorts,London,,Mexico,29,1,Business Unit Charlie,North America
+2023-02-01,Hilton Hotels,Hong Kong,,United States,27,1,Business Unit Charlie,APAC
+2023-02-01,Hilton Hotels,Los Angeles,,United States,25,1,Business Unit Charlie,APAC
+2023-02-01,Wyndham Hotels and Resorts,Los Angeles,,France,19,1,Business Unit Bravo,North America
+2023-02-01,InterContinental Hotels Group (IHG),Atlanta,,United States,17,1,Business Unit Delta ,Latin America
+2023-02-01,BTH Hotels,New York City,,Japan,18,1,Business Unit Bravo,APAC
+2023-02-01,Marriott International,Mexico City,,Japan,18,1,Business Unit Delta ,Europe
+2023-03-01,BTH Hotels,Toronto,,Japan,15,1,Business Unit Alpha ,Europe
+2023-03-01,Choice Hotels International,Tokyo,,United States,24,1,Business Unit Echo,Latin America
+2023-03-01,Choice Hotels International,Washington D.C.,,United States,23,1,Business Unit Charlie,Latin America
+2023-03-01,InterContinental Hotels Group (IHG),London,,United States,30,1,Business Unit Delta ,APAC
+2023-03-01,Hilton Hotels,Mumbai,,United States,30,1,Business Unit Delta ,Latin America
+2023-03-01,Accor,Miami,,United Kingdom,25,1,Business Unit Alpha ,Latin America
+2023-03-01,Ritz Carlton,Paris,,United States,21,1,Business Unit Echo,North America
+2023-03-01,Best Western Hotels & Resorts,Beijing,,Mexico,28,1,Business Unit Charlie,North America
+2023-03-01,Ritz Carlton,New York City,,United States,29,1,Business Unit Delta ,Europe
+2023-03-01,Accor,Shanghai,,United Kingdom,20,1,Business Unit Bravo,North America
+2023-03-01,BTH Hotels,Jakarta,,Japan,20,1,Business Unit Charlie,APAC
+2023-03-01,Marriott International,San Francisco Bay Area,,Japan,26,1,Business Unit Alpha ,Europe
+2023-03-01,Marriott International,Sao Paulo,,Japan,19,1,Business Unit Alpha ,APAC
+2023-03-01,Best Western Hotels & Resorts,Jakarta,,Mexico,26,1,Business Unit Echo,Latin America
+2023-03-01,Marriott International,Beijing,,Japan,27,1,Business Unit Bravo,North America
+2023-03-01,Best Western Hotels & Resorts,Jakarta,,Mexico,27,1,Business Unit Charlie,North America
+2023-03-01,Jin Jiang International,Moscow,,China,17,1,Business Unit Charlie,Latin America
+2023-03-01,BTH Hotels,Miami,,Japan,30,1,Business Unit Charlie,APAC
+2023-03-01,InterContinental Hotels Group (IHG),Mumbai,,United States,19,1,Business Unit Charlie,APAC
+2023-03-01,Marriott International,Sao Paulo,,Japan,18,1,Business Unit Echo,Europe
+2023-03-01,Accor,New York City,,United Kingdom,21,1,Business Unit Charlie,Latin America
+2023-03-01,Jin Jiang International,Toronto,,China,24,1,Business Unit Alpha ,Europe
+2023-03-01,Four Seasons,Osaka-Kobe,,Argentina,15,1,Business Unit Echo,Latin America
+2023-03-01,Hyatt Hotels Corporation,Dallas-Fort Worth,,China,29,1,Business Unit Delta ,APAC
+2023-03-01,Choice Hotels International,Paris,,United States,28,1,Business Unit Alpha ,Latin America
+2023-04-01,Jin Jiang International,New York City,,China,23,1,Business Unit Echo,Latin America
+2023-04-01,Jin Jiang International,Mexico City,,China,26,1,Business Unit Bravo,Europe
+2023-04-01,Ritz Carlton,Atlanta,,United States,28,1,Business Unit Charlie,North America
+2023-04-01,Hilton Hotels,Tokyo,,United States,16,1,Business Unit Delta ,Latin America
+2023-04-01,Choice Hotels International,London,,United States,29,1,Business Unit Bravo,APAC
+2023-04-01,Hyatt Hotels Corporation,Moscow,,China,22,1,Business Unit Delta ,Europe
+2023-04-01,Hilton Hotels,Jakarta,,United States,22,1,Business Unit Delta ,North America
+2023-04-01,InterContinental Hotels Group (IHG),Sao Paulo,,United States,19,1,Business Unit Charlie,North America
+2023-04-01,InterContinental Hotels Group (IHG),Buenos Aires,,United States,18,1,Business Unit Bravo,Europe
+2023-04-01,Choice Hotels International,Chicago,,United States,18,1,Business Unit Bravo,Latin America
+2023-04-01,Choice Hotels International,San Francisco Bay Area,,United States,28,1,Business Unit Alpha ,North America
+2023-04-01,InterContinental Hotels Group (IHG),Philadelphia,,United States,30,1,Business Unit Bravo,Latin America
+2023-04-01,BTH Hotels,Seoul,,Japan,26,1,Business Unit Delta ,North America
+2023-04-01,Hilton Hotels,Jakarta,,United States,16,1,Business Unit Bravo,Europe
+2023-04-01,Four Seasons,Philadelphia,,Argentina,19,1,Business Unit Echo,North America
+2023-04-01,BTH Hotels,Tokyo,,Japan,28,1,Business Unit Delta ,Europe
+2023-04-01,Hilton Hotels,Paris,,United States,29,1,Business Unit Delta ,Latin America
+2023-04-01,Choice Hotels International,Shanghai,,United States,26,1,Business Unit Bravo,APAC
+2023-04-01,InterContinental Hotels Group (IHG),London,,United States,19,1,Business Unit Alpha ,Latin America
+2023-04-01,Marriott International,New York City,,Japan,26,1,Business Unit Delta ,Latin America
+2023-04-01,InterContinental Hotels Group (IHG),Buenos Aires,,United States,18,1,Business Unit Echo,North America
+2023-04-01,Ritz Carlton,Toronto,,United States,19,1,Business Unit Charlie,Latin America
+2023-04-01,Jin Jiang International,London,,China,22,1,Business Unit Charlie,North America
+2023-04-01,Hyatt Hotels Corporation,San Francisco Bay Area,,China,27,1,Business Unit Delta ,North America
+2023-04-01,InterContinental Hotels Group (IHG),Paris,,United States,15,1,Business Unit Delta ,North America
+2023-05-01,Hyatt Hotels Corporation,Mumbai,,China,19,1,Business Unit Echo,North America
+2023-05-01,Marriott International,Osaka-Kobe,,Japan,25,1,Business Unit Echo,Europe
+2023-05-01,Accor,Osaka-Kobe,,United Kingdom,19,1,Business Unit Alpha ,Latin America
+2023-05-01,BTH Hotels,Atlanta,,Japan,21,1,Business Unit Bravo,APAC
+2023-05-01,Four Seasons,Philadelphia,,Argentina,28,1,Business Unit Alpha ,North America
+2023-05-01,Choice Hotels International,Beijing,,United States,20,1,Business Unit Alpha ,Europe
+2023-05-01,Wyndham Hotels and Resorts,London,,France,26,1,Business Unit Echo,APAC
+2023-05-01,InterContinental Hotels Group (IHG),Miami,,United States,23,1,Business Unit Echo,Europe
+2023-05-01,Wyndham Hotels and Resorts,Osaka-Kobe,,France,18,1,Business Unit Alpha ,Europe
+2023-05-01,Jin Jiang International,San Francisco Bay Area,,China,21,1,Business Unit Delta ,APAC
+2023-05-01,Wyndham Hotels and Resorts,Jakarta,,France,22,1,Business Unit Echo,APAC
+2023-05-01,BTH Hotels,Chicago,,Japan,15,1,Business Unit Echo,North America
+2023-05-01,Hyatt Hotels Corporation,Atlanta,,China,20,1,Business Unit Bravo,Latin America
+2023-05-01,Hyatt Hotels Corporation,Paris,,China,23,1,Business Unit Delta ,APAC
+2023-05-01,Four Seasons,Toronto,,Argentina,18,1,Business Unit Alpha ,Latin America
+2023-05-01,Marriott International,Jakarta,,Japan,19,1,Business Unit Bravo,Europe
+2023-05-01,Hilton Hotels,Tokyo,,United States,29,1,Business Unit Echo,APAC
+2023-05-01,Wyndham Hotels and Resorts,San Francisco Bay Area,,France,20,1,Business Unit Alpha ,North America
+2023-05-01,Ritz Carlton,Beijing,,United States,16,1,Business Unit Delta ,APAC
+2023-05-01,Best Western Hotels & Resorts,Jakarta,,Mexico,19,1,Business Unit Alpha ,Latin America
+2023-05-01,Marriott International,Moscow,,Japan,26,1,Business Unit Alpha ,Europe
+2023-05-01,Ritz Carlton,Miami,,United States,15,1,Business Unit Charlie,APAC
+2023-05-01,Choice Hotels International,Los Angeles,,United States,20,1,Business Unit Delta ,Latin America
+2023-05-01,Jin Jiang International,Tokyo,,China,26,1,Business Unit Bravo,Latin America
+2023-05-01,Accor,Chicago,,United Kingdom,16,1,Business Unit Charlie,APAC
+2023-06-01,Wyndham Hotels and Resorts,Jakarta,,France,17,1,Business Unit Delta ,Europe
+2023-06-01,Wyndham Hotels and Resorts,Mexico City,,France,22,1,Business Unit Echo,APAC
+2023-06-01,Choice Hotels International,Mexico City,,United States,21,1,Business Unit Charlie,Europe
+2023-06-01,Choice Hotels International,Moscow,,United States,18,1,Business Unit Bravo,Europe
+2023-06-01,Choice Hotels International,Toronto,,United States,24,1,Business Unit Delta ,North America
+2023-06-01,Wyndham Hotels and Resorts,Moscow,,France,22,1,Business Unit Echo,Europe
+2023-06-01,Choice Hotels International,Mexico City,,United States,24,1,Business Unit Echo,North America
+2023-06-01,InterContinental Hotels Group (IHG),Los Angeles,,United States,21,1,Business Unit Alpha ,North America
+2023-06-01,Choice Hotels International,Paris,,United States,26,1,Business Unit Charlie,Latin America
+2023-06-01,BTH Hotels,Shanghai,,Japan,19,1,Business Unit Delta ,North America
+2023-06-01,Hyatt Hotels Corporation,Moscow,,China,25,1,Business Unit Echo,APAC
+2023-06-01,Ritz Carlton,New York City,,United States,18,1,Business Unit Bravo,APAC
+2023-06-01,Choice Hotels International,Atlanta,,United States,23,1,Business Unit Charlie,North America
+2023-06-01,Hyatt Hotels Corporation,Mexico City,,China,17,1,Business Unit Alpha ,APAC
+2023-06-01,Hilton Hotels,Moscow,,United States,29,1,Business Unit Charlie,Latin America
+2023-06-01,Four Seasons,Tokyo,,Argentina,20,1,Business Unit Delta ,North America
+2023-06-01,BTH Hotels,Toronto,,Japan,27,1,Business Unit Charlie,APAC
+2023-06-01,Marriott International,San Francisco Bay Area,,Japan,16,1,Business Unit Echo,Latin America
+2023-06-01,Best Western Hotels & Resorts,Los Angeles,,Mexico,25,1,Business Unit Alpha ,North America
+2023-06-01,Ritz Carlton,London,,United States,26,1,Business Unit Charlie,Latin America
+2023-06-01,Best Western Hotels & Resorts,Toronto,,Mexico,18,1,Business Unit Alpha ,Latin America
+2023-06-01,Accor,Mumbai,,United Kingdom,27,1,Business Unit Bravo,Europe
+2023-06-01,Jin Jiang International,Los Angeles,,China,17,1,Business Unit Bravo,Europe
+2023-06-01,Ritz Carlton,Dallas-Fort Worth,,United States,24,1,Business Unit Delta ,North America
+2023-06-01,Wyndham Hotels and Resorts,Mumbai,,France,21,1,Business Unit Alpha ,Latin America
+2023-07-01,Four Seasons,Philadelphia,,Argentina,19,1,Business Unit Echo,Latin America
+2023-07-01,Choice Hotels International,Hong Kong,,United States,24,1,Business Unit Bravo,APAC
+2023-07-01,InterContinental Hotels Group (IHG),Chicago,,United States,29,1,Business Unit Delta ,Latin America
+2023-07-01,Jin Jiang International,Shanghai,,China,17,1,Business Unit Echo,APAC
+2023-07-01,Choice Hotels International,Sao Paulo,,United States,24,1,Business Unit Alpha ,APAC
+2023-07-01,Jin Jiang International,Mumbai,,China,29,1,Business Unit Echo,North America
+2023-07-01,Best Western Hotels & Resorts,Seoul,,Mexico,20,1,Business Unit Bravo,North America
+2023-07-01,InterContinental Hotels Group (IHG),San Francisco Bay Area,,United States,23,1,Business Unit Echo,Europe
+2023-07-01,BTH Hotels,Houston,,Japan,16,1,Business Unit Bravo,Europe
+2023-07-01,Marriott International,Houston,,Japan,26,1,Business Unit Charlie,APAC
+2023-07-01,Four Seasons,Toronto,,Argentina,26,1,Business Unit Bravo,APAC
+2023-07-01,Choice Hotels International,Washington D.C.,,United States,23,1,Business Unit Bravo,APAC
+2023-07-01,Accor,Toronto,,United Kingdom,15,1,Business Unit Echo,North America
+2023-07-01,Best Western Hotels & Resorts,Chicago,,Mexico,20,1,Business Unit Bravo,APAC
+2023-07-01,Marriott International,Atlanta,,Japan,21,1,Business Unit Charlie,North America
+2023-07-01,Hilton Hotels,Atlanta,,United States,26,1,Business Unit Delta ,Europe
+2023-07-01,Hyatt Hotels Corporation,Atlanta,,China,16,1,Business Unit Charlie,APAC
+2023-07-01,Accor,Mexico City,,United Kingdom,16,1,Business Unit Charlie,Latin America
+2023-07-01,Marriott International,Hong Kong,,Japan,18,1,Business Unit Delta ,North America
+2023-07-01,Four Seasons,Buenos Aires,,Argentina,15,1,Business Unit Charlie,Latin America
+2023-07-01,Accor,Atlanta,,United Kingdom,26,1,Business Unit Delta ,Latin America
+2023-07-01,BTH Hotels,Buenos Aires,,Japan,28,1,Business Unit Echo,Latin America
+2023-07-01,InterContinental Hotels Group (IHG),Seoul,,United States,18,1,Business Unit Bravo,Latin America
+2023-07-01,Hilton Hotels,Osaka-Kobe,,United States,25,1,Business Unit Alpha ,North America
+2023-07-01,Wyndham Hotels and Resorts,Mumbai,,France,25,1,Business Unit Alpha ,Europe
+2023-08-01,Hilton Hotels,Shanghai,,United States,27,1,Business Unit Bravo,Latin America
+2023-08-01,BTH Hotels,Washington D.C.,,Japan,22,1,Business Unit Charlie,APAC
+2023-08-01,Jin Jiang International,Miami,,China,18,1,Business Unit Delta ,Europe
+2023-08-01,Marriott International,Hong Kong,,Japan,23,1,Business Unit Charlie,Latin America
+2023-08-01,Hilton Hotels,Atlanta,,United States,30,1,Business Unit Charlie,Europe
+2023-08-01,Hilton Hotels,Washington D.C.,,United States,26,1,Business Unit Bravo,Latin America
+2023-08-01,Hyatt Hotels Corporation,Washington D.C.,,China,22,1,Business Unit Delta ,North America
+2023-08-01,InterContinental Hotels Group (IHG),Atlanta,,United States,29,1,Business Unit Bravo,APAC
+2023-08-01,BTH Hotels,Sao Paulo,,Japan,25,1,Business Unit Delta ,North America
+2023-08-01,Hyatt Hotels Corporation,Mexico City,,China,21,1,Business Unit Bravo,Latin America
+2023-08-01,Marriott International,Miami,,Japan,21,1,Business Unit Bravo,Europe
+2023-08-01,Jin Jiang International,Chicago,,China,29,1,Business Unit Echo,Europe
+2023-08-01,Marriott International,Dallas-Fort Worth,,Japan,26,1,Business Unit Echo,Latin America
+2023-08-01,Wyndham Hotels and Resorts,Miami,,France,19,1,Business Unit Delta ,North America
+2023-08-01,Accor,Mumbai,,United Kingdom,19,1,Business Unit Charlie,Latin America
+2023-08-01,Accor,Washington D.C.,,United Kingdom,28,1,Business Unit Echo,North America
+2023-08-01,Wyndham Hotels and Resorts,Hong Kong,,France,27,1,Business Unit Bravo,APAC
+2023-08-01,InterContinental Hotels Group (IHG),Atlanta,,United States,23,1,Business Unit Echo,Europe
+2023-08-01,Jin Jiang International,Jakarta,,China,17,1,Business Unit Bravo,Europe
+2023-08-01,Wyndham Hotels and Resorts,Jakarta,,France,23,1,Business Unit Bravo,APAC
+2023-08-01,Best Western Hotels & Resorts,Beijing,,Mexico,25,1,Business Unit Echo,Latin America
+2023-08-01,Hyatt Hotels Corporation,London,,China,18,1,Business Unit Echo,APAC
+2023-08-01,Marriott International,Moscow,,Japan,23,1,Business Unit Alpha ,APAC
+2023-08-01,Accor,Philadelphia,,United Kingdom,21,1,Business Unit Alpha ,Europe
+2023-08-01,Hyatt Hotels Corporation,London,,China,23,1,Business Unit Bravo,Latin America
+2023-09-01,BTH Hotels,London,,Japan,25,1,Business Unit Bravo,APAC
+2023-09-01,Accor,Los Angeles,,United Kingdom,26,1,Business Unit Alpha ,Latin America
+2023-09-01,Hyatt Hotels Corporation,Dallas-Fort Worth,,China,18,1,Business Unit Charlie,North America
+2023-09-01,Accor,Los Angeles,,United Kingdom,29,1,Business Unit Echo,North America
+2023-09-01,BTH Hotels,Dallas-Fort Worth,,Japan,30,1,Business Unit Charlie,North America
+2023-09-01,BTH Hotels,Moscow,,Japan,20,1,Business Unit Charlie,Latin America
+2023-09-01,Four Seasons,Buenos Aires,,Argentina,18,1,Business Unit Delta ,North America
+2023-09-01,Ritz Carlton,San Francisco Bay Area,,United States,17,1,Business Unit Bravo,North America
+2023-09-01,Jin Jiang International,Philadelphia,,China,20,1,Business Unit Echo,Latin America
+2023-09-01,InterContinental Hotels Group (IHG),Jakarta,,United States,17,1,Business Unit Delta ,Europe
+2023-09-01,BTH Hotels,Mexico City,,Japan,24,1,Business Unit Charlie,North America
+2023-09-01,InterContinental Hotels Group (IHG),Shanghai,,United States,21,1,Business Unit Echo,North America
+2023-09-01,Marriott International,Hong Kong,,Japan,20,1,Business Unit Bravo,APAC
+2023-09-01,Accor,Paris,,United Kingdom,21,1,Business Unit Bravo,Latin America
+2023-09-01,Choice Hotels International,Tokyo,,United States,22,1,Business Unit Delta ,Europe
+2023-09-01,Accor,Mexico City,,United Kingdom,22,1,Business Unit Alpha ,Europe
+2023-09-01,Marriott International,Seoul,,Japan,22,1,Business Unit Echo,North America
+2023-09-01,InterContinental Hotels Group (IHG),New York City,,United States,29,1,Business Unit Charlie,Europe
+2023-09-01,Choice Hotels International,Tokyo,,United States,20,1,Business Unit Charlie,Latin America
+2023-09-01,Marriott International,Jakarta,,Japan,25,1,Business Unit Charlie,Europe
+2023-09-01,Marriott International,Mumbai,,Japan,23,1,Business Unit Charlie,Europe
+2023-09-01,BTH Hotels,London,,Japan,28,1,Business Unit Alpha ,Europe
+2023-09-01,Wyndham Hotels and Resorts,Osaka-Kobe,,France,25,1,Business Unit Echo,Latin America
+2023-09-01,Choice Hotels International,Paris,,United States,20,1,Business Unit Alpha ,APAC
+2023-09-01,Jin Jiang International,Sao Paulo,,China,23,1,Business Unit Bravo,APAC
+2023-10-01,Hyatt Hotels Corporation,Mumbai,,China,22,1,Business Unit Charlie,Europe
+2023-10-01,Best Western Hotels & Resorts,Beijing,,Mexico,18,1,Business Unit Charlie,Latin America
+2023-10-01,Wyndham Hotels and Resorts,Hong Kong,,France,30,1,Business Unit Echo,Latin America
+2023-10-01,Wyndham Hotels and Resorts,Mumbai,,France,15,1,Business Unit Delta ,North America
+2023-10-01,Jin Jiang International,Mumbai,,China,23,1,Business Unit Alpha ,North America
+2023-10-01,Marriott International,San Francisco Bay Area,,Japan,22,1,Business Unit Bravo,Latin America
+2023-10-01,Four Seasons,London,,Argentina,21,1,Business Unit Echo,Latin America
+2023-10-01,Best Western Hotels & Resorts,Mexico City,,Mexico,17,1,Business Unit Alpha ,Europe
+2023-10-01,Marriott International,Jakarta,,Japan,23,1,Business Unit Alpha ,Latin America
+2023-10-01,BTH Hotels,Philadelphia,,Japan,26,1,Business Unit Echo,Europe
+2023-10-01,Accor,Miami,,United Kingdom,20,1,Business Unit Delta ,Latin America
+2023-10-01,Jin Jiang International,Hong Kong,,China,25,1,Business Unit Charlie,North America
+2023-10-01,InterContinental Hotels Group (IHG),Philadelphia,,United States,29,1,Business Unit Bravo,North America
+2023-10-01,Jin Jiang International,Buenos Aires,,China,27,1,Business Unit Echo,Latin America
+2023-10-01,InterContinental Hotels Group (IHG),Toronto,,United States,24,1,Business Unit Delta ,North America
+2023-10-01,BTH Hotels,Jakarta,,Japan,17,1,Business Unit Echo,Europe
+2023-10-01,Ritz Carlton,Atlanta,,United States,16,1,Business Unit Alpha ,APAC
+2023-10-01,Ritz Carlton,San Francisco Bay Area,,United States,27,1,Business Unit Bravo,North America
+2023-10-01,InterContinental Hotels Group (IHG),Seoul,,United States,22,1,Business Unit Delta ,APAC
+2023-10-01,Hyatt Hotels Corporation,San Francisco Bay Area,,China,18,1,Business Unit Charlie,Latin America
+2023-10-01,Four Seasons,London,,Argentina,28,1,Business Unit Echo,Europe
+2023-10-01,Marriott International,Tokyo,,Japan,27,1,Business Unit Bravo,Europe
+2023-10-01,BTH Hotels,Shanghai,,Japan,16,1,Business Unit Echo,Europe
+2023-10-01,Ritz Carlton,Atlanta,,United States,30,1,Business Unit Charlie,APAC
+2023-10-01,Hyatt Hotels Corporation,Shanghai,,China,17,1,Business Unit Bravo,APAC
+2023-11-01,Ritz Carlton,Washington D.C.,,United States,20,1,Business Unit Delta ,Latin America
+2023-11-01,BTH Hotels,Buenos Aires,,Japan,30,1,Business Unit Charlie,Latin America
+2023-11-01,BTH Hotels,Buenos Aires,,Japan,17,1,Business Unit Bravo,Latin America
+2023-11-01,Hyatt Hotels Corporation,Beijing,,China,30,1,Business Unit Bravo,North America
+2023-11-01,Ritz Carlton,Hong Kong,,United States,29,1,Business Unit Alpha ,APAC
+2023-11-01,Jin Jiang International,Dallas-Fort Worth,,China,28,1,Business Unit Alpha ,APAC
+2023-11-01,Accor,Atlanta,,United Kingdom,18,1,Business Unit Alpha ,APAC
+2023-11-01,Four Seasons,Houston,,Argentina,21,1,Business Unit Charlie,North America
+2023-11-01,InterContinental Hotels Group (IHG),Miami,,United States,15,1,Business Unit Delta ,Latin America
+2023-11-01,Hyatt Hotels Corporation,New York City,,China,15,1,Business Unit Bravo,APAC
+2023-11-01,Hilton Hotels,Chicago,,United States,23,1,Business Unit Delta ,APAC
+2023-11-01,Choice Hotels International,Buenos Aires,,United States,19,1,Business Unit Charlie,Latin America
+2023-11-01,Jin Jiang International,Toronto,,China,26,1,Business Unit Delta ,Europe
+2023-11-01,Marriott International,Chicago,,Japan,23,1,Business Unit Delta ,Europe
+2023-11-01,Hilton Hotels,Toronto,,United States,18,1,Business Unit Alpha ,APAC
+2023-11-01,Accor,Houston,,United Kingdom,16,1,Business Unit Alpha ,APAC
+2023-11-01,InterContinental Hotels Group (IHG),Miami,,United States,24,1,Business Unit Echo,Latin America
+2023-11-01,Accor,Washington D.C.,,United Kingdom,29,1,Business Unit Delta ,Latin America
+2023-11-01,Best Western Hotels & Resorts,Chicago,,Mexico,23,1,Business Unit Echo,Europe
+2023-11-01,Four Seasons,Beijing,,Argentina,21,1,Business Unit Alpha ,APAC
+2023-11-01,BTH Hotels,Moscow,,Japan,30,1,Business Unit Bravo,APAC
+2023-11-01,Jin Jiang International,Los Angeles,,China,21,1,Business Unit Bravo,Europe
+2023-11-01,Hilton Hotels,Toronto,,United States,24,1,Business Unit Bravo,Europe
+2023-11-01,Hyatt Hotels Corporation,Atlanta,,China,27,1,Business Unit Delta ,Latin America
+2023-11-01,Best Western Hotels & Resorts,Seoul,,Mexico,30,1,Business Unit Charlie,Europe
+2023-12-01,InterContinental Hotels Group (IHG),Paris,,United States,25,1,Business Unit Charlie,North America
+2023-12-01,Accor,Paris,,United Kingdom,16,1,Business Unit Charlie,APAC
+2023-12-01,Accor,Seoul,,United Kingdom,21,1,Business Unit Charlie,APAC
+2023-12-01,Four Seasons,Washington D.C.,,Argentina,25,1,Business Unit Delta ,Latin America
+2023-12-01,InterContinental Hotels Group (IHG),Chicago,,United States,24,1,Business Unit Alpha ,APAC
+2023-12-01,BTH Hotels,Beijing,,Japan,22,1,Business Unit Delta ,APAC
+2023-12-01,Accor,Toronto,,United Kingdom,29,1,Business Unit Alpha ,Europe
+2023-12-01,Jin Jiang International,Jakarta,,China,26,1,Business Unit Delta ,Europe
+2023-12-01,Marriott International,Miami,,Japan,22,1,Business Unit Alpha ,Europe
+2023-12-01,Choice Hotels International,Washington D.C.,,United States,25,1,Business Unit Alpha ,APAC
+2023-12-01,Choice Hotels International,Tokyo,,United States,19,1,Business Unit Delta ,Latin America
+2023-12-01,Marriott International,Sao Paulo,,Japan,20,1,Business Unit Charlie,APAC
+2023-12-01,Accor,Tokyo,,United Kingdom,20,1,Business Unit Delta ,Latin America
+2023-12-01,Wyndham Hotels and Resorts,Mumbai,,France,22,1,Business Unit Charlie,Latin America
+2023-12-01,Marriott International,Moscow,,Japan,17,1,Business Unit Echo,Europe
+2023-12-01,Marriott International,Jakarta,,Japan,20,1,Business Unit Charlie,Latin America
+2023-12-01,Choice Hotels International,Shanghai,,United States,19,1,Business Unit Echo,Europe
+2023-12-01,Four Seasons,Paris,,Argentina,29,1,Business Unit Charlie,Europe
+2023-12-01,Four Seasons,Mumbai,,Argentina,29,1,Business Unit Delta ,APAC
+2023-12-01,Jin Jiang International,Sao Paulo,,China,25,1,Business Unit Delta ,APAC
+2023-12-01,InterContinental Hotels Group (IHG),Tokyo,,United States,29,1,Business Unit Alpha ,APAC
+2023-12-01,Choice Hotels International,Tokyo,,United States,29,1,Business Unit Alpha ,APAC
+2023-12-01,Hilton Hotels,New York City,,United States,21,1,Business Unit Echo,Europe
+2023-12-01,Ritz Carlton,Houston,,United States,21,1,Business Unit Alpha ,APAC
+2023-12-01,Choice Hotels International,Hong Kong,,United States,28,1,Business Unit Echo,Latin America
