@@ -1,0 +1,601 @@
+﻿date,origin_airport,destination_airport,flight_type,cabin_class,vendor_entity,passenger_quantity,cancellation,custom_field_business_unit,custom_field_region
+2022-01-01,LAS,ICN,One way,First,United,1,Not cancelled,Business Unit Bravo,Europe
+2022-01-01,IST,HND,One way,First,Qantas,1,Not cancelled,Business Unit Alpha ,Europe
+2022-01-01,ATL,PVG,One way,Premium economy,British Air,2,Not cancelled,Business Unit Delta ,Latin America
+2022-01-01,DXB,MAD,One way,Economy,EasyJet,2,Not cancelled,Business Unit Delta ,Latin America
+2022-01-01,IST,MCO,One way,Economy,Southwest,1,Not cancelled,Business Unit Echo,Latin America
+2022-01-01,DXB,PEK,One way,First,American Airlines,2,Not cancelled,Business Unit Charlie,North America
+2022-01-01,DEL,BKK,One way,Economy,Etihad,2,Not cancelled,Business Unit Alpha ,APAC
+2022-01-01,LAS,CAN,One way,Business,Southwest,1,Not cancelled,Business Unit Delta ,Latin America
+2022-01-01,CDG,MAD,One way,Premium economy,American Airlines,2,Not cancelled,Business Unit Alpha ,APAC
+2022-01-01,ORD,CLT,One way,First,British Air,2,Not cancelled,Business Unit Alpha ,Latin America
+2022-01-01,CDG,MEX,One way,First,United,1,Not cancelled,Business Unit Echo,Latin America
+2022-01-01,DXB,SEA,One way,Premium economy,Qantas,1,Not cancelled,Business Unit Bravo,Europe
+2022-01-01,ORD,MAD,One way,Premium economy,EasyJet,2,Not cancelled,Business Unit Bravo,Europe
+2022-01-01,ATL,CLT,One way,Premium economy,Etihad,2,Not cancelled,Business Unit Alpha ,North America
+2022-01-01,DXB,SIN,One way,Premium economy,Qantas,1,Not cancelled,Business Unit Bravo,APAC
+2022-01-01,LAS,CAN,One way,Economy,British Air,2,Not cancelled,Business Unit Charlie,Europe
+2022-01-01,DXB,MEX,One way,First,United,1,Not cancelled,Business Unit Alpha ,Europe
+2022-01-01,LAX,SIN,One way,First,American Airlines,2,Not cancelled,Business Unit Alpha ,APAC
+2022-01-01,ATL,FRA,One way,Economy,American Airlines,1,Cancelled,Business Unit Bravo,Latin America
+2022-01-01,DFW,CLT,One way,Business,Qantas,2,Not cancelled,Business Unit Bravo,North America
+2022-01-01,DEL,SIN,One way,Business,Delta,2,Not cancelled,Business Unit Delta ,North America
+2022-01-01,LAS,PVG,One way,Premium economy,British Air,2,Not cancelled,Business Unit Charlie,North America
+2022-01-01,JFK,TPE,One way,Business,British Air,2,Not cancelled,Business Unit Alpha ,North America
+2022-01-01,DEN,CAN,One way,Economy,British Air,2,Not cancelled,Business Unit Alpha ,Latin America
+2022-01-01,IST,CAN,One way,Business,American Airlines,2,Not cancelled,Business Unit Delta ,North America
+2022-02-01,CDG,MCO,One way,First,Qantas,2,Not cancelled,Business Unit Bravo,APAC
+2022-02-01,AMS,CLT,One way,First,EasyJet,2,Not cancelled,Business Unit Delta ,Europe
+2022-02-01,ORD,ICN,One way,Business,EasyJet,1,Not cancelled,Business Unit Echo,North America
+2022-02-01,LAS,SEA,One way,Economy,British Air,2,Cancelled,Business Unit Delta ,APAC
+2022-02-01,CDG,SEA,One way,Business,Etihad,2,Not cancelled,Business Unit Alpha ,North America
+2022-02-01,IST,FRA,One way,Business,Etihad,1,Not cancelled,Business Unit Delta ,North America
+2022-02-01,LHR,SIN,One way,Business,American Airlines,2,Not cancelled,Business Unit Charlie,Latin America
+2022-02-01,CDG,HND,One way,Economy,Delta,2,Not cancelled,Business Unit Alpha ,Europe
+2022-02-01,IST,PVG,One way,Business,British Air,2,Not cancelled,Business Unit Bravo,Europe
+2022-02-01,DXB,EWR,One way,Business,British Air,1,Not cancelled,Business Unit Charlie,APAC
+2022-02-01,CDG,SEA,One way,Business,British Air,1,Not cancelled,Business Unit Echo,North America
+2022-02-01,DEL,ICN,One way,Economy,American Airlines,1,Not cancelled,Business Unit Alpha ,North America
+2022-02-01,IST,TPE,One way,Economy,British Air,1,Not cancelled,Business Unit Charlie,Europe
+2022-02-01,DXB,PVG,One way,Business,American Airlines,1,Not cancelled,Business Unit Charlie,Europe
+2022-02-01,LAX,PEK,One way,Business,Southwest,1,Not cancelled,Business Unit Alpha ,North America
+2022-02-01,IST,TPE,One way,Premium economy,Southwest,1,Not cancelled,Business Unit Delta ,APAC
+2022-02-01,AMS,CAN,One way,Business,Delta,2,Not cancelled,Business Unit Bravo,APAC
+2022-02-01,AMS,SEA,One way,First,Qantas,2,Not cancelled,Business Unit Charlie,APAC
+2022-02-01,DXB,CLT,One way,Economy,Southwest,2,Not cancelled,Business Unit Echo,APAC
+2022-02-01,AMS,CAN,One way,Premium economy,Etihad,1,Not cancelled,Business Unit Bravo,North America
+2022-02-01,LHR,EWR,One way,Business,EasyJet,1,Not cancelled,Business Unit Delta ,APAC
+2022-02-01,ATL,MEX,One way,Economy,Qantas,1,Not cancelled,Business Unit Delta ,North America
+2022-02-01,ORD,SIN,One way,First,Etihad,2,Not cancelled,Business Unit Echo,Europe
+2022-02-01,LHR,MEX,One way,Premium economy,Etihad,1,Not cancelled,Business Unit Alpha ,North America
+2022-02-01,LAX,ICN,One way,First,Southwest,2,Not cancelled,Business Unit Delta ,Latin America
+2022-03-01,ATL,MCO,One way,Premium economy,EasyJet,1,Not cancelled,Business Unit Delta ,North America
+2022-03-01,DFW,ICN,One way,First,British Air,1,Not cancelled,Business Unit Charlie,Europe
+2022-03-01,IST,SEA,One way,Business,United,2,Not cancelled,Business Unit Alpha ,Europe
+2022-03-01,JFK,SIN,One way,Premium economy,EasyJet,2,Not cancelled,Business Unit Echo,North America
+2022-03-01,LHR,HGH,One way,First,Delta,2,Not cancelled,Business Unit Delta ,Europe
+2022-03-01,CDG,CAN,One way,Premium economy,Etihad,1,Not cancelled,Business Unit Alpha ,North America
+2022-03-01,DEN,PVG,One way,Premium economy,Delta,2,Not cancelled,Business Unit Bravo,North America
+2022-03-01,IST,TPE,One way,Premium economy,Southwest,2,Not cancelled,Business Unit Delta ,Latin America
+2022-03-01,DXB,MCO,One way,Premium economy,American Airlines,1,Not cancelled,Business Unit Alpha ,North America
+2022-03-01,JFK,EWR,One way,Premium economy,Delta,1,Not cancelled,Business Unit Charlie,Europe
+2022-03-01,LAX,SEA,One way,First,American Airlines,2,Not cancelled,Business Unit Echo,APAC
+2022-03-01,DXB,MEX,One way,Premium economy,EasyJet,2,Not cancelled,Business Unit Alpha ,Latin America
+2022-03-01,IST,SIN,One way,Premium economy,Delta,2,Not cancelled,Business Unit Alpha ,Europe
+2022-03-01,LHR,BKK,One way,Economy,British Air,1,Not cancelled,Business Unit Echo,Latin America
+2022-03-01,JFK,BKK,One way,Premium economy,Delta,2,Not cancelled,Business Unit Delta ,Latin America
+2022-03-01,DXB,MAD,One way,Premium economy,British Air,1,Not cancelled,Business Unit Bravo,North America
+2022-03-01,DFW,SEA,One way,Business,Southwest,2,Not cancelled,Business Unit Bravo,North America
+2022-03-01,ORD,SIN,One way,Economy,British Air,2,Not cancelled,Business Unit Bravo,Europe
+2022-03-01,MIA,SIN,One way,First,Southwest,1,Not cancelled,Business Unit Alpha ,North America
+2022-03-01,DFW,PVG,One way,Business,United,2,Cancelled,Business Unit Charlie,Latin America
+2022-03-01,ATL,MEX,One way,Business,British Air,2,Not cancelled,Business Unit Charlie,Latin America
+2022-03-01,ORD,HGH,One way,First,British Air,1,Not cancelled,Business Unit Charlie,Europe
+2022-03-01,LHR,SEA,One way,Business,United,1,Not cancelled,Business Unit Bravo,Latin America
+2022-03-01,ATL,FRA,One way,Business,Delta,1,Not cancelled,Business Unit Bravo,APAC
+2022-03-01,LAX,PVG,One way,Business,Delta,1,Not cancelled,Business Unit Charlie,APAC
+2022-04-01,IST,PEK,One way,Business,Southwest,1,Not cancelled,Business Unit Alpha ,Europe
+2022-04-01,LAS,EWR,One way,Premium economy,Delta,2,Not cancelled,Business Unit Alpha ,APAC
+2022-04-01,LAX,EWR,One way,Economy,Qantas,2,Not cancelled,Business Unit Bravo,APAC
+2022-04-01,ATL,MCO,One way,Economy,Qantas,1,Not cancelled,Business Unit Alpha ,North America
+2022-04-01,LAS,SEA,One way,First,British Air,2,Not cancelled,Business Unit Alpha ,North America
+2022-04-01,DFW,MAD,One way,Business,American Airlines,1,Not cancelled,Business Unit Echo,Europe
+2022-04-01,JFK,MEX,One way,First,Delta,2,Not cancelled,Business Unit Alpha ,Europe
+2022-04-01,ATL,EWR,One way,Premium economy,American Airlines,1,Not cancelled,Business Unit Delta ,APAC
+2022-04-01,ORD,FRA,One way,Business,United,2,Not cancelled,Business Unit Bravo,APAC
+2022-04-01,ORD,BKK,One way,First,Southwest,1,Not cancelled,Business Unit Bravo,APAC
+2022-04-01,LHR,PVG,One way,Economy,American Airlines,2,Not cancelled,Business Unit Delta ,Europe
+2022-04-01,JFK,TPE,One way,First,Qantas,2,Not cancelled,Business Unit Bravo,Europe
+2022-04-01,LAS,CAN,One way,Premium economy,Etihad,1,Not cancelled,Business Unit Bravo,Europe
+2022-04-01,LHR,MEX,One way,First,Etihad,2,Not cancelled,Business Unit Alpha ,APAC
+2022-04-01,ATL,HND,One way,First,American Airlines,1,Not cancelled,Business Unit Bravo,North America
+2022-04-01,ORD,MEX,One way,Economy,British Air,2,Not cancelled,Business Unit Delta ,APAC
+2022-04-01,MIA,BKK,One way,First,American Airlines,1,Not cancelled,Business Unit Charlie,Latin America
+2022-04-01,LHR,PEK,One way,Economy,Southwest,1,Not cancelled,Business Unit Delta ,North America
+2022-04-01,CDG,HND,One way,Economy,EasyJet,2,Not cancelled,Business Unit Bravo,APAC
+2022-04-01,MIA,PVG,One way,Economy,Qantas,2,Not cancelled,Business Unit Charlie,Europe
+2022-04-01,DFW,HND,One way,Premium economy,American Airlines,2,Not cancelled,Business Unit Charlie,North America
+2022-04-01,LHR,TPE,One way,Economy,Southwest,1,Not cancelled,Business Unit Charlie,North America
+2022-04-01,JFK,HND,One way,First,Southwest,1,Not cancelled,Business Unit Bravo,APAC
+2022-04-01,ORD,MEX,One way,Economy,EasyJet,2,Not cancelled,Business Unit Alpha ,North America
+2022-04-01,LAS,CLT,One way,First,EasyJet,2,Not cancelled,Business Unit Charlie,Latin America
+2022-05-01,DEN,TPE,One way,Economy,Delta,1,Not cancelled,Business Unit Echo,Latin America
+2022-05-01,IST,HND,One way,Business,Qantas,1,Not cancelled,Business Unit Delta ,Latin America
+2022-05-01,DEN,SIN,One way,Economy,Etihad,1,Not cancelled,Business Unit Alpha ,North America
+2022-05-01,JFK,MCO,One way,Premium economy,Etihad,1,Not cancelled,Business Unit Alpha ,North America
+2022-05-01,ATL,EWR,One way,Economy,EasyJet,2,Not cancelled,Business Unit Bravo,North America
+2022-05-01,ORD,EWR,One way,Economy,Qantas,1,Not cancelled,Business Unit Echo,North America
+2022-05-01,IST,ICN,One way,Premium economy,United,2,Not cancelled,Business Unit Charlie,Latin America
+2022-05-01,ATL,MCO,One way,Business,Qantas,2,Not cancelled,Business Unit Echo,APAC
+2022-05-01,AMS,HGH,One way,Economy,Qantas,2,Not cancelled,Business Unit Bravo,North America
+2022-05-01,CDG,SIN,One way,Business,EasyJet,2,Not cancelled,Business Unit Delta ,APAC
+2022-05-01,DXB,PEK,One way,First,Southwest,2,Not cancelled,Business Unit Charlie,Latin America
+2022-05-01,AMS,SEA,One way,Business,Southwest,2,Cancelled,Business Unit Delta ,Europe
+2022-05-01,JFK,MAD,One way,Economy,United,1,Not cancelled,Business Unit Delta ,Latin America
+2022-05-01,DFW,TPE,One way,Premium economy,Etihad,2,Not cancelled,Business Unit Charlie,Latin America
+2022-05-01,DEN,MAD,One way,Business,Etihad,1,Not cancelled,Business Unit Charlie,Europe
+2022-05-01,LAS,EWR,One way,Economy,Southwest,1,Not cancelled,Business Unit Delta ,North America
+2022-05-01,ATL,CAN,One way,First,Delta,1,Not cancelled,Business Unit Alpha ,North America
+2022-05-01,LAX,MEX,One way,Premium economy,EasyJet,2,Not cancelled,Business Unit Charlie,North America
+2022-05-01,DEN,HGH,One way,Premium economy,Etihad,2,Not cancelled,Business Unit Charlie,North America
+2022-05-01,ORD,HND,One way,Economy,American Airlines,2,Not cancelled,Business Unit Charlie,APAC
+2022-05-01,DEL,HGH,One way,Premium economy,Delta,2,Not cancelled,Business Unit Alpha ,North America
+2022-05-01,IST,SEA,One way,Premium economy,Southwest,2,Not cancelled,Business Unit Bravo,North America
+2022-05-01,DXB,SEA,One way,Premium economy,American Airlines,1,Not cancelled,Business Unit Bravo,North America
+2022-05-01,ORD,PVG,One way,First,Delta,2,Not cancelled,Business Unit Delta ,North America
+2022-05-01,ATL,TPE,One way,Business,Etihad,2,Not cancelled,Business Unit Alpha ,North America
+2022-06-01,LAX,MCO,One way,Economy,Etihad,2,Not cancelled,Business Unit Bravo,APAC
+2022-06-01,JFK,EWR,One way,Premium economy,EasyJet,1,Not cancelled,Business Unit Charlie,Latin America
+2022-06-01,ORD,MEX,One way,Premium economy,American Airlines,2,Not cancelled,Business Unit Charlie,APAC
+2022-06-01,DEN,FRA,One way,Economy,Delta,2,Not cancelled,Business Unit Bravo,Europe
+2022-06-01,ORD,PVG,One way,Premium economy,Delta,2,Not cancelled,Business Unit Charlie,Latin America
+2022-06-01,ORD,FRA,One way,Business,Delta,1,Not cancelled,Business Unit Alpha ,APAC
+2022-06-01,LAS,CAN,One way,Business,EasyJet,2,Not cancelled,Business Unit Bravo,Latin America
+2022-06-01,MIA,ICN,One way,First,British Air,1,Not cancelled,Business Unit Echo,APAC
+2022-06-01,DFW,SEA,One way,Premium economy,Delta,2,Not cancelled,Business Unit Echo,North America
+2022-06-01,DEL,HND,One way,Economy,United,2,Not cancelled,Business Unit Alpha ,Europe
+2022-06-01,AMS,SIN,One way,Economy,Delta,1,Not cancelled,Business Unit Echo,Europe
+2022-06-01,LHR,PVG,One way,Business,United,2,Not cancelled,Business Unit Delta ,Latin America
+2022-06-01,LAS,TPE,One way,Premium economy,Southwest,2,Not cancelled,Business Unit Bravo,North America
+2022-06-01,CDG,SIN,One way,Business,Qantas,1,Not cancelled,Business Unit Bravo,North America
+2022-06-01,ATL,HND,One way,Premium economy,Southwest,1,Not cancelled,Business Unit Bravo,APAC
+2022-06-01,DXB,ICN,One way,Business,United,2,Not cancelled,Business Unit Delta ,Europe
+2022-06-01,LAS,MEX,One way,Business,United,1,Not cancelled,Business Unit Delta ,Latin America
+2022-06-01,DXB,SIN,One way,Premium economy,Etihad,1,Not cancelled,Business Unit Delta ,APAC
+2022-06-01,LAS,SIN,One way,Business,Etihad,2,Not cancelled,Business Unit Charlie,Europe
+2022-06-01,LHR,ICN,One way,Economy,United,1,Not cancelled,Business Unit Delta ,APAC
+2022-06-01,ATL,PEK,One way,Business,United,2,Not cancelled,Business Unit Delta ,Latin America
+2022-06-01,ATL,ICN,One way,First,EasyJet,1,Not cancelled,Business Unit Bravo,Europe
+2022-06-01,ATL,CLT,One way,First,United,1,Not cancelled,Business Unit Alpha ,Latin America
+2022-06-01,ATL,CLT,One way,Premium economy,British Air,2,Not cancelled,Business Unit Alpha ,Latin America
+2022-06-01,AMS,ICN,One way,Premium economy,American Airlines,2,Not cancelled,Business Unit Alpha ,Latin America
+2022-07-01,CDG,HND,One way,First,United,1,Not cancelled,Business Unit Bravo,Latin America
+2022-07-01,LAS,MAD,One way,First,Southwest,1,Not cancelled,Business Unit Delta ,Europe
+2022-07-01,CDG,ICN,One way,Business,British Air,1,Not cancelled,Business Unit Bravo,North America
+2022-07-01,LAX,FRA,One way,Economy,EasyJet,1,Not cancelled,Business Unit Charlie,North America
+2022-07-01,JFK,PVG,One way,Premium economy,EasyJet,2,Not cancelled,Business Unit Alpha ,Latin America
+2022-07-01,LHR,PVG,One way,First,Delta,2,Not cancelled,Business Unit Alpha ,APAC
+2022-07-01,IST,MEX,One way,Business,EasyJet,2,Not cancelled,Business Unit Bravo,Europe
+2022-07-01,LAS,BKK,One way,Economy,EasyJet,1,Not cancelled,Business Unit Alpha ,APAC
+2022-07-01,DXB,CAN,One way,Economy,Qantas,2,Not cancelled,Business Unit Bravo,Latin America
+2022-07-01,DFW,HND,One way,Economy,Southwest,2,Not cancelled,Business Unit Delta ,APAC
+2022-07-01,MIA,PEK,One way,Premium economy,Qantas,2,Not cancelled,Business Unit Charlie,APAC
+2022-07-01,LAS,CLT,One way,First,Delta,2,Not cancelled,Business Unit Bravo,Europe
+2022-07-01,DFW,BKK,One way,Economy,American Airlines,1,Not cancelled,Business Unit Bravo,North America
+2022-07-01,AMS,HGH,One way,Premium economy,Southwest,1,Not cancelled,Business Unit Echo,Latin America
+2022-07-01,JFK,PEK,One way,Economy,Southwest,1,Not cancelled,Business Unit Charlie,Europe
+2022-07-01,DFW,HGH,One way,First,American Airlines,1,Not cancelled,Business Unit Bravo,Latin America
+2022-07-01,LAX,TPE,One way,First,EasyJet,2,Not cancelled,Business Unit Echo,North America
+2022-07-01,LHR,HND,One way,Business,EasyJet,2,Not cancelled,Business Unit Alpha ,Europe
+2022-07-01,MIA,BKK,One way,Premium economy,Etihad,2,Not cancelled,Business Unit Bravo,APAC
+2022-07-01,IST,TPE,One way,First,Qantas,1,Not cancelled,Business Unit Echo,Europe
+2022-07-01,LHR,CLT,One way,Business,British Air,1,Not cancelled,Business Unit Alpha ,Europe
+2022-07-01,DXB,MEX,One way,Economy,Qantas,1,Not cancelled,Business Unit Bravo,North America
+2022-07-01,LAX,CLT,One way,First,Southwest,1,Not cancelled,Business Unit Alpha ,Latin America
+2022-07-01,LHR,CAN,One way,First,British Air,1,Not cancelled,Business Unit Delta ,Latin America
+2022-07-01,JFK,HND,One way,First,Southwest,1,Not cancelled,Business Unit Bravo,North America
+2022-08-01,LAS,CLT,One way,Premium economy,Delta,1,Not cancelled,Business Unit Delta ,Latin America
+2022-08-01,IST,FRA,One way,Economy,EasyJet,2,Not cancelled,Business Unit Alpha ,North America
+2022-08-01,LAX,FRA,One way,Business,United,1,Not cancelled,Business Unit Bravo,APAC
+2022-08-01,CDG,BKK,One way,Premium economy,British Air,1,Not cancelled,Business Unit Delta ,APAC
+2022-08-01,ATL,EWR,One way,Premium economy,EasyJet,2,Not cancelled,Business Unit Charlie,Latin America
+2022-08-01,DEN,FRA,One way,Business,United,2,Not cancelled,Business Unit Delta ,Latin America
+2022-08-01,DEL,MEX,One way,Economy,Southwest,2,Not cancelled,Business Unit Alpha ,Europe
+2022-08-01,LAS,HND,One way,Economy,American Airlines,1,Not cancelled,Business Unit Delta ,Europe
+2022-08-01,DFW,MEX,One way,Premium economy,EasyJet,1,Not cancelled,Business Unit Charlie,Latin America
+2022-08-01,DXB,MAD,One way,Premium economy,American Airlines,1,Not cancelled,Business Unit Bravo,Europe
+2022-08-01,DFW,MEX,One way,Business,Delta,1,Not cancelled,Business Unit Echo,Latin America
+2022-08-01,DXB,BKK,One way,Business,British Air,2,Not cancelled,Business Unit Bravo,APAC
+2022-08-01,DFW,CAN,One way,First,Delta,2,Not cancelled,Business Unit Alpha ,North America
+2022-08-01,DEN,TPE,One way,Business,EasyJet,1,Not cancelled,Business Unit Delta ,Europe
+2022-08-01,JFK,HND,One way,Economy,Qantas,1,Not cancelled,Business Unit Bravo,North America
+2022-08-01,CDG,CLT,One way,Premium economy,British Air,2,Not cancelled,Business Unit Alpha ,APAC
+2022-08-01,ATL,MAD,One way,Economy,Southwest,1,Not cancelled,Business Unit Echo,North America
+2022-08-01,LAX,FRA,One way,Premium economy,British Air,2,Not cancelled,Business Unit Echo,North America
+2022-08-01,LAS,MEX,One way,Premium economy,EasyJet,2,Not cancelled,Business Unit Echo,APAC
+2022-08-01,MIA,BKK,One way,Premium economy,EasyJet,2,Not cancelled,Business Unit Echo,APAC
+2022-08-01,ORD,HND,One way,Economy,Etihad,2,Not cancelled,Business Unit Delta ,Europe
+2022-08-01,LHR,FRA,One way,First,Qantas,1,Not cancelled,Business Unit Echo,North America
+2022-08-01,DEL,MCO,One way,Premium economy,Etihad,1,Not cancelled,Business Unit Alpha ,APAC
+2022-08-01,IST,SIN,One way,Economy,British Air,2,Not cancelled,Business Unit Delta ,North America
+2022-08-01,JFK,HGH,One way,Economy,United,1,Not cancelled,Business Unit Echo,Latin America
+2022-09-01,LHR,ICN,One way,Business,United,2,Not cancelled,Business Unit Bravo,Europe
+2022-09-01,ATL,ICN,One way,Business,United,2,Not cancelled,Business Unit Delta ,Europe
+2022-09-01,DXB,HND,One way,Business,British Air,1,Not cancelled,Business Unit Charlie,Europe
+2022-09-01,LHR,PEK,One way,Economy,Delta,2,Not cancelled,Business Unit Delta ,APAC
+2022-09-01,ORD,TPE,One way,Premium economy,United,1,Not cancelled,Business Unit Bravo,North America
+2022-09-01,IST,MCO,One way,First,EasyJet,2,Not cancelled,Business Unit Echo,APAC
+2022-09-01,ORD,EWR,One way,Business,United,1,Cancelled,Business Unit Bravo,Latin America
+2022-09-01,MIA,BKK,One way,Economy,American Airlines,2,Not cancelled,Business Unit Charlie,APAC
+2022-09-01,JFK,HGH,One way,Premium economy,Qantas,1,Not cancelled,Business Unit Echo,Europe
+2022-09-01,DEN,MCO,One way,Premium economy,Qantas,1,Not cancelled,Business Unit Echo,APAC
+2022-09-01,LHR,MCO,One way,First,Etihad,2,Not cancelled,Business Unit Alpha ,North America
+2022-09-01,CDG,HND,One way,Premium economy,American Airlines,1,Not cancelled,Business Unit Charlie,North America
+2022-09-01,DEL,CLT,One way,Business,Southwest,2,Not cancelled,Business Unit Bravo,Latin America
+2022-09-01,DXB,MEX,One way,Premium economy,British Air,1,Not cancelled,Business Unit Echo,APAC
+2022-09-01,MIA,SEA,One way,First,Qantas,2,Not cancelled,Business Unit Charlie,Latin America
+2022-09-01,LHR,MCO,One way,First,American Airlines,1,Not cancelled,Business Unit Alpha ,Europe
+2022-09-01,LHR,HND,One way,First,EasyJet,1,Not cancelled,Business Unit Delta ,North America
+2022-09-01,DEN,ICN,One way,First,Southwest,1,Not cancelled,Business Unit Charlie,Latin America
+2022-09-01,LHR,FRA,One way,Business,Qantas,2,Not cancelled,Business Unit Bravo,North America
+2022-09-01,IST,MAD,One way,Economy,Delta,1,Not cancelled,Business Unit Charlie,North America
+2022-09-01,ORD,TPE,One way,Business,Qantas,2,Not cancelled,Business Unit Delta ,Latin America
+2022-09-01,ORD,MEX,One way,Economy,Southwest,1,Not cancelled,Business Unit Delta ,North America
+2022-09-01,DFW,MCO,One way,Economy,Etihad,1,Not cancelled,Business Unit Delta ,Latin America
+2022-09-01,DFW,FRA,One way,First,United,1,Not cancelled,Business Unit Delta ,North America
+2022-09-01,DFW,CLT,One way,Business,British Air,1,Not cancelled,Business Unit Bravo,Europe
+2022-10-01,AMS,MAD,One way,Premium economy,American Airlines,2,Not cancelled,Business Unit Echo,North America
+2022-10-01,MIA,BKK,One way,Premium economy,EasyJet,1,Not cancelled,Business Unit Charlie,Europe
+2022-10-01,JFK,CLT,One way,Economy,American Airlines,2,Not cancelled,Business Unit Charlie,Latin America
+2022-10-01,DXB,TPE,One way,Business,Southwest,2,Not cancelled,Business Unit Delta ,Latin America
+2022-10-01,MIA,HND,One way,First,Etihad,1,Not cancelled,Business Unit Echo,Europe
+2022-10-01,DEL,BKK,One way,First,Southwest,1,Not cancelled,Business Unit Delta ,APAC
+2022-10-01,IST,ICN,One way,Business,EasyJet,2,Not cancelled,Business Unit Delta ,North America
+2022-10-01,JFK,PEK,One way,First,Etihad,2,Not cancelled,Business Unit Charlie,APAC
+2022-10-01,ATL,CAN,One way,Economy,Etihad,1,Not cancelled,Business Unit Echo,Europe
+2022-10-01,MIA,MEX,One way,Economy,Delta,2,Not cancelled,Business Unit Alpha ,Latin America
+2022-10-01,LAX,MCO,One way,Economy,Southwest,1,Not cancelled,Business Unit Charlie,Latin America
+2022-10-01,LHR,SEA,One way,First,United,2,Not cancelled,Business Unit Charlie,Latin America
+2022-10-01,LHR,CAN,One way,First,Etihad,1,Cancelled,Business Unit Echo,Latin America
+2022-10-01,DEL,ICN,One way,Economy,Qantas,1,Cancelled,Business Unit Echo,APAC
+2022-10-01,ATL,BKK,One way,Premium economy,Qantas,1,Not cancelled,Business Unit Charlie,Europe
+2022-10-01,LAX,HND,One way,Premium economy,United,1,Not cancelled,Business Unit Delta ,APAC
+2022-10-01,AMS,HGH,One way,Premium economy,EasyJet,1,Not cancelled,Business Unit Charlie,APAC
+2022-10-01,MIA,MEX,One way,Business,EasyJet,1,Not cancelled,Business Unit Echo,Latin America
+2022-10-01,DXB,BKK,One way,Premium economy,American Airlines,2,Not cancelled,Business Unit Alpha ,Latin America
+2022-10-01,MIA,CLT,One way,Economy,EasyJet,1,Not cancelled,Business Unit Delta ,North America
+2022-10-01,ORD,BKK,One way,Business,American Airlines,2,Not cancelled,Business Unit Charlie,Latin America
+2022-10-01,LAX,TPE,One way,Business,Southwest,1,Not cancelled,Business Unit Echo,Europe
+2022-10-01,AMS,MEX,One way,First,Etihad,1,Not cancelled,Business Unit Charlie,APAC
+2022-10-01,CDG,MAD,One way,Economy,EasyJet,2,Not cancelled,Business Unit Echo,North America
+2022-10-01,DFW,CAN,One way,Economy,EasyJet,1,Not cancelled,Business Unit Bravo,Europe
+2022-11-01,ATL,CLT,One way,First,Delta,1,Not cancelled,Business Unit Alpha ,North America
+2022-11-01,JFK,CLT,One way,Business,American Airlines,2,Cancelled,Business Unit Alpha ,APAC
+2022-11-01,ATL,PVG,One way,First,Qantas,2,Not cancelled,Business Unit Bravo,Latin America
+2022-11-01,LAS,CLT,One way,Premium economy,British Air,2,Not cancelled,Business Unit Delta ,Europe
+2022-11-01,LAS,CLT,One way,Premium economy,Etihad,1,Not cancelled,Business Unit Bravo,Latin America
+2022-11-01,CDG,CLT,One way,Economy,Qantas,1,Not cancelled,Business Unit Echo,Latin America
+2022-11-01,AMS,MAD,One way,Economy,British Air,1,Not cancelled,Business Unit Charlie,Europe
+2022-11-01,ORD,BKK,One way,First,Qantas,2,Not cancelled,Business Unit Alpha ,APAC
+2022-11-01,LHR,MAD,One way,Economy,Southwest,1,Not cancelled,Business Unit Charlie,Latin America
+2022-11-01,LAX,CAN,One way,First,Delta,1,Not cancelled,Business Unit Echo,North America
+2022-11-01,DEN,MAD,One way,First,American Airlines,2,Not cancelled,Business Unit Echo,APAC
+2022-11-01,LHR,MAD,One way,Business,British Air,2,Not cancelled,Business Unit Echo,Latin America
+2022-11-01,CDG,MCO,One way,Economy,British Air,1,Not cancelled,Business Unit Alpha ,Latin America
+2022-11-01,DEN,MEX,One way,Premium economy,Southwest,2,Not cancelled,Business Unit Delta ,Europe
+2022-11-01,ATL,HGH,One way,First,Delta,2,Not cancelled,Business Unit Charlie,Europe
+2022-11-01,LHR,MAD,One way,Economy,EasyJet,1,Not cancelled,Business Unit Bravo,APAC
+2022-11-01,AMS,BKK,One way,Business,Delta,2,Not cancelled,Business Unit Delta ,North America
+2022-11-01,LAX,CLT,One way,Business,British Air,2,Not cancelled,Business Unit Delta ,APAC
+2022-11-01,MIA,SIN,One way,Business,EasyJet,1,Not cancelled,Business Unit Alpha ,North America
+2022-11-01,LHR,CLT,One way,Premium economy,United,1,Not cancelled,Business Unit Alpha ,Europe
+2022-11-01,LAS,PVG,One way,Economy,American Airlines,2,Not cancelled,Business Unit Delta ,Latin America
+2022-11-01,AMS,CAN,One way,Economy,Qantas,1,Not cancelled,Business Unit Charlie,APAC
+2022-11-01,ORD,TPE,One way,Business,British Air,1,Not cancelled,Business Unit Charlie,North America
+2022-11-01,JFK,HND,One way,Economy,EasyJet,1,Not cancelled,Business Unit Bravo,Latin America
+2022-11-01,LHR,ICN,One way,Economy,EasyJet,2,Not cancelled,Business Unit Alpha ,North America
+2022-12-01,DXB,MEX,One way,Business,EasyJet,1,Not cancelled,Business Unit Echo,Europe
+2022-12-01,ORD,MCO,One way,Business,Delta,1,Not cancelled,Business Unit Delta ,Latin America
+2022-12-01,JFK,MCO,One way,First,Delta,2,Not cancelled,Business Unit Bravo,Europe
+2022-12-01,ORD,FRA,One way,Business,EasyJet,1,Not cancelled,Business Unit Charlie,Europe
+2022-12-01,DEL,CLT,One way,Business,British Air,1,Not cancelled,Business Unit Charlie,APAC
+2022-12-01,DXB,FRA,One way,First,Etihad,1,Not cancelled,Business Unit Charlie,APAC
+2022-12-01,MIA,MAD,One way,Economy,Qantas,2,Not cancelled,Business Unit Delta ,APAC
+2022-12-01,DEN,HGH,One way,Business,United,1,Not cancelled,Business Unit Charlie,Latin America
+2022-12-01,AMS,PEK,One way,First,Southwest,1,Not cancelled,Business Unit Charlie,North America
+2022-12-01,DFW,PVG,One way,First,Southwest,2,Not cancelled,Business Unit Echo,Latin America
+2022-12-01,AMS,TPE,One way,Economy,Southwest,2,Not cancelled,Business Unit Charlie,APAC
+2022-12-01,DEN,CLT,One way,Economy,American Airlines,1,Not cancelled,Business Unit Charlie,North America
+2022-12-01,LAS,FRA,One way,Business,Etihad,1,Not cancelled,Business Unit Delta ,North America
+2022-12-01,LAX,TPE,One way,Business,Etihad,2,Not cancelled,Business Unit Echo,Europe
+2022-12-01,DEL,MCO,One way,Economy,American Airlines,1,Not cancelled,Business Unit Echo,Europe
+2022-12-01,AMS,BKK,One way,Business,United,1,Not cancelled,Business Unit Bravo,Latin America
+2022-12-01,CDG,SIN,One way,First,EasyJet,2,Not cancelled,Business Unit Echo,Latin America
+2022-12-01,DXB,MAD,One way,Business,British Air,1,Not cancelled,Business Unit Bravo,North America
+2022-12-01,ATL,SEA,One way,Business,Qantas,2,Not cancelled,Business Unit Alpha ,Latin America
+2022-12-01,IST,TPE,One way,First,United,1,Not cancelled,Business Unit Alpha ,North America
+2022-12-01,IST,MAD,One way,First,United,2,Not cancelled,Business Unit Echo,Europe
+2022-12-01,DEL,EWR,One way,Premium economy,Southwest,2,Not cancelled,Business Unit Charlie,Europe
+2022-12-01,LHR,PVG,One way,Business,Delta,1,Not cancelled,Business Unit Delta ,APAC
+2022-12-01,MIA,MAD,One way,Business,Qantas,1,Not cancelled,Business Unit Charlie,Europe
+2022-12-01,AMS,ICN,One way,Premium economy,Qantas,1,Not cancelled,Business Unit Echo,APAC
+2023-01-01,DXB,CAN,One way,Premium economy,United,2,Not cancelled,Business Unit Bravo,APAC
+2023-01-01,MIA,MEX,One way,Premium economy,United,1,Not cancelled,Business Unit Alpha ,APAC
+2023-01-01,CDG,MAD,One way,First,Southwest,1,Not cancelled,Business Unit Charlie,North America
+2023-01-01,JFK,MAD,One way,Business,American Airlines,1,Not cancelled,Business Unit Delta ,Europe
+2023-01-01,MIA,EWR,One way,Business,British Air,2,Not cancelled,Business Unit Alpha ,Europe
+2023-01-01,DFW,MCO,One way,Business,Delta,1,Not cancelled,Business Unit Charlie,North America
+2023-01-01,IST,CAN,One way,First,EasyJet,2,Not cancelled,Business Unit Delta ,North America
+2023-01-01,DEL,BKK,One way,First,Qantas,2,Not cancelled,Business Unit Alpha ,Europe
+2023-01-01,CDG,EWR,One way,Economy,Delta,1,Not cancelled,Business Unit Bravo,Europe
+2023-01-01,AMS,SIN,One way,Business,EasyJet,1,Not cancelled,Business Unit Alpha ,Latin America
+2023-01-01,ATL,FRA,One way,First,British Air,2,Not cancelled,Business Unit Delta ,APAC
+2023-01-01,LHR,PVG,One way,First,British Air,2,Not cancelled,Business Unit Echo,Europe
+2023-01-01,LAS,SEA,One way,Premium economy,Qantas,2,Not cancelled,Business Unit Charlie,APAC
+2023-01-01,LAX,MAD,One way,Business,Delta,2,Not cancelled,Business Unit Delta ,Europe
+2023-01-01,JFK,TPE,One way,Economy,EasyJet,1,Not cancelled,Business Unit Echo,Latin America
+2023-01-01,JFK,PEK,One way,First,Southwest,1,Not cancelled,Business Unit Charlie,Latin America
+2023-01-01,IST,CLT,One way,First,EasyJet,1,Not cancelled,Business Unit Alpha ,APAC
+2023-01-01,LAS,CAN,One way,Premium economy,Qantas,1,Not cancelled,Business Unit Alpha ,Latin America
+2023-01-01,DFW,TPE,One way,Business,Delta,2,Not cancelled,Business Unit Alpha ,North America
+2023-01-01,ATL,MCO,One way,First,EasyJet,1,Not cancelled,Business Unit Charlie,North America
+2023-01-01,LHR,FRA,One way,First,British Air,1,Not cancelled,Business Unit Alpha ,Latin America
+2023-01-01,LAS,MAD,One way,First,United,2,Not cancelled,Business Unit Alpha ,APAC
+2023-01-01,ATL,MAD,One way,Premium economy,EasyJet,1,Not cancelled,Business Unit Charlie,Latin America
+2023-01-01,DEN,TPE,One way,Economy,Delta,2,Not cancelled,Business Unit Bravo,APAC
+2023-01-01,CDG,MCO,One way,First,American Airlines,2,Not cancelled,Business Unit Charlie,Europe
+2023-02-01,IST,TPE,One way,First,United,2,Not cancelled,Business Unit Echo,Latin America
+2023-02-01,JFK,CAN,One way,Economy,EasyJet,2,Not cancelled,Business Unit Echo,APAC
+2023-02-01,AMS,HGH,One way,Business,Southwest,2,Not cancelled,Business Unit Alpha ,APAC
+2023-02-01,CDG,HGH,One way,Premium economy,Delta,2,Not cancelled,Business Unit Echo,North America
+2023-02-01,ATL,HGH,One way,Business,British Air,2,Not cancelled,Business Unit Bravo,North America
+2023-02-01,LAX,MEX,One way,Economy,Southwest,2,Not cancelled,Business Unit Bravo,Latin America
+2023-02-01,DXB,TPE,One way,Premium economy,American Airlines,2,Not cancelled,Business Unit Echo,APAC
+2023-02-01,DXB,FRA,One way,Premium economy,Etihad,2,Not cancelled,Business Unit Charlie,Europe
+2023-02-01,IST,PVG,One way,Premium economy,Qantas,1,Not cancelled,Business Unit Echo,North America
+2023-02-01,IST,FRA,One way,First,Etihad,2,Not cancelled,Business Unit Delta ,Europe
+2023-02-01,AMS,ICN,One way,First,American Airlines,1,Not cancelled,Business Unit Charlie,Latin America
+2023-02-01,ORD,PVG,One way,Business,Delta,1,Not cancelled,Business Unit Bravo,APAC
+2023-02-01,ORD,HND,One way,Economy,Delta,1,Not cancelled,Business Unit Echo,North America
+2023-02-01,DEN,HGH,One way,Business,British Air,1,Not cancelled,Business Unit Charlie,APAC
+2023-02-01,ATL,FRA,One way,Premium economy,Southwest,1,Not cancelled,Business Unit Charlie,North America
+2023-02-01,ATL,CLT,One way,First,Southwest,2,Not cancelled,Business Unit Echo,North America
+2023-02-01,LAS,HND,One way,Business,United,2,Not cancelled,Business Unit Charlie,Latin America
+2023-02-01,DEN,MAD,One way,Economy,Etihad,2,Not cancelled,Business Unit Bravo,Europe
+2023-02-01,LHR,BKK,One way,Business,Southwest,2,Not cancelled,Business Unit Delta ,Latin America
+2023-02-01,JFK,BKK,One way,Business,American Airlines,2,Not cancelled,Business Unit Echo,North America
+2023-02-01,JFK,EWR,One way,Business,Qantas,2,Not cancelled,Business Unit Charlie,APAC
+2023-02-01,CDG,PVG,One way,Economy,Delta,2,Not cancelled,Business Unit Bravo,North America
+2023-02-01,MIA,TPE,One way,Business,United,1,Cancelled,Business Unit Echo,Europe
+2023-02-01,ORD,EWR,One way,Economy,American Airlines,1,Not cancelled,Business Unit Alpha ,Latin America
+2023-02-01,IST,MCO,One way,Business,EasyJet,1,Not cancelled,Business Unit Delta ,Europe
+2023-03-01,DFW,MAD,One way,Economy,American Airlines,2,Not cancelled,Business Unit Bravo,Latin America
+2023-03-01,LHR,SIN,One way,Premium economy,Southwest,2,Not cancelled,Business Unit Delta ,Europe
+2023-03-01,ORD,TPE,One way,Economy,United,1,Not cancelled,Business Unit Charlie,Europe
+2023-03-01,DXB,HGH,One way,Business,United,1,Not cancelled,Business Unit Echo,North America
+2023-03-01,DEL,MEX,One way,First,Etihad,2,Not cancelled,Business Unit Charlie,APAC
+2023-03-01,LAS,HGH,One way,Premium economy,EasyJet,1,Not cancelled,Business Unit Echo,Latin America
+2023-03-01,ORD,CAN,One way,First,Southwest,1,Not cancelled,Business Unit Bravo,APAC
+2023-03-01,JFK,FRA,One way,Economy,American Airlines,2,Not cancelled,Business Unit Alpha ,Latin America
+2023-03-01,LAS,MAD,One way,Business,Qantas,1,Not cancelled,Business Unit Bravo,North America
+2023-03-01,JFK,FRA,One way,First,United,2,Not cancelled,Business Unit Bravo,Latin America
+2023-03-01,LAS,HGH,One way,Premium economy,United,2,Not cancelled,Business Unit Charlie,Latin America
+2023-03-01,DXB,SIN,One way,Premium economy,Qantas,1,Not cancelled,Business Unit Alpha ,Europe
+2023-03-01,LAS,HGH,One way,Economy,Delta,1,Not cancelled,Business Unit Alpha ,APAC
+2023-03-01,IST,CAN,One way,Premium economy,EasyJet,1,Not cancelled,Business Unit Charlie,Latin America
+2023-03-01,LAS,SIN,One way,First,American Airlines,1,Not cancelled,Business Unit Charlie,APAC
+2023-03-01,AMS,CAN,One way,Premium economy,EasyJet,1,Not cancelled,Business Unit Bravo,North America
+2023-03-01,LAS,HGH,One way,Premium economy,Delta,2,Not cancelled,Business Unit Echo,Europe
+2023-03-01,JFK,SIN,One way,First,Southwest,2,Not cancelled,Business Unit Charlie,North America
+2023-03-01,AMS,BKK,One way,First,Delta,2,Not cancelled,Business Unit Charlie,Latin America
+2023-03-01,MIA,MAD,One way,Premium economy,British Air,2,Not cancelled,Business Unit Delta ,APAC
+2023-03-01,DEL,HND,One way,First,Delta,1,Not cancelled,Business Unit Charlie,North America
+2023-03-01,DEL,HGH,One way,Premium economy,Etihad,1,Cancelled,Business Unit Delta ,North America
+2023-03-01,MIA,HGH,One way,Business,Southwest,2,Not cancelled,Business Unit Echo,North America
+2023-03-01,DFW,TPE,One way,Economy,Qantas,1,Not cancelled,Business Unit Bravo,North America
+2023-03-01,DXB,EWR,One way,Economy,Qantas,2,Not cancelled,Business Unit Charlie,North America
+2023-04-01,ORD,MEX,One way,Premium economy,British Air,2,Not cancelled,Business Unit Bravo,Europe
+2023-04-01,AMS,BKK,One way,Business,Qantas,2,Cancelled,Business Unit Echo,APAC
+2023-04-01,DEN,PVG,One way,Economy,EasyJet,1,Not cancelled,Business Unit Charlie,Europe
+2023-04-01,JFK,BKK,One way,Economy,Qantas,1,Not cancelled,Business Unit Delta ,APAC
+2023-04-01,DEN,FRA,One way,Business,Etihad,2,Not cancelled,Business Unit Alpha ,APAC
+2023-04-01,IST,TPE,One way,Economy,Qantas,2,Not cancelled,Business Unit Echo,Europe
+2023-04-01,ORD,FRA,One way,First,British Air,2,Not cancelled,Business Unit Bravo,APAC
+2023-04-01,LHR,CAN,One way,Economy,Delta,1,Not cancelled,Business Unit Alpha ,Latin America
+2023-04-01,LHR,SEA,One way,Business,United,1,Not cancelled,Business Unit Echo,North America
+2023-04-01,DXB,FRA,One way,First,Delta,2,Not cancelled,Business Unit Alpha ,Europe
+2023-04-01,ORD,HGH,One way,Premium economy,American Airlines,1,Not cancelled,Business Unit Alpha ,Latin America
+2023-04-01,AMS,HND,One way,First,EasyJet,2,Not cancelled,Business Unit Delta ,APAC
+2023-04-01,DXB,TPE,One way,Business,Qantas,2,Not cancelled,Business Unit Echo,North America
+2023-04-01,MIA,CAN,One way,Premium economy,Delta,2,Not cancelled,Business Unit Charlie,Europe
+2023-04-01,DEL,SIN,One way,Economy,EasyJet,1,Not cancelled,Business Unit Bravo,North America
+2023-04-01,LAX,CAN,One way,Economy,British Air,1,Not cancelled,Business Unit Echo,Latin America
+2023-04-01,ATL,HGH,One way,Premium economy,Qantas,1,Not cancelled,Business Unit Echo,Latin America
+2023-04-01,AMS,SEA,One way,Business,American Airlines,2,Not cancelled,Business Unit Delta ,Latin America
+2023-04-01,MIA,FRA,One way,Economy,Delta,1,Not cancelled,Business Unit Alpha ,Latin America
+2023-04-01,IST,SIN,One way,Premium economy,Delta,2,Not cancelled,Business Unit Charlie,North America
+2023-04-01,CDG,MEX,One way,Premium economy,Qantas,1,Not cancelled,Business Unit Charlie,Europe
+2023-04-01,IST,FRA,One way,Business,United,1,Not cancelled,Business Unit Delta ,Europe
+2023-04-01,CDG,ICN,One way,Economy,United,1,Not cancelled,Business Unit Bravo,North America
+2023-04-01,DEL,ICN,One way,Economy,United,2,Not cancelled,Business Unit Echo,Latin America
+2023-04-01,DEN,CAN,One way,Premium economy,Qantas,1,Not cancelled,Business Unit Alpha ,Latin America
+2023-05-01,DFW,PEK,One way,Business,United,1,Not cancelled,Business Unit Charlie,Europe
+2023-05-01,LAX,HND,One way,First,Delta,2,Not cancelled,Business Unit Charlie,Latin America
+2023-05-01,AMS,ICN,One way,Premium economy,Qantas,2,Not cancelled,Business Unit Echo,APAC
+2023-05-01,LAX,CLT,One way,Business,United,2,Not cancelled,Business Unit Bravo,Europe
+2023-05-01,CDG,PVG,One way,Premium economy,United,1,Not cancelled,Business Unit Delta ,North America
+2023-05-01,CDG,FRA,One way,Premium economy,British Air,2,Not cancelled,Business Unit Bravo,Latin America
+2023-05-01,IST,ICN,One way,First,Etihad,1,Not cancelled,Business Unit Echo,North America
+2023-05-01,AMS,MEX,One way,Business,Southwest,1,Not cancelled,Business Unit Charlie,APAC
+2023-05-01,IST,HGH,One way,Economy,Southwest,2,Not cancelled,Business Unit Alpha ,Europe
+2023-05-01,LAS,CLT,One way,Premium economy,Delta,1,Cancelled,Business Unit Delta ,Latin America
+2023-05-01,DEN,PEK,One way,Business,Qantas,2,Cancelled,Business Unit Echo,APAC
+2023-05-01,DEL,BKK,One way,Premium economy,American Airlines,1,Not cancelled,Business Unit Echo,Latin America
+2023-05-01,MIA,EWR,One way,Business,British Air,1,Not cancelled,Business Unit Charlie,Europe
+2023-05-01,AMS,CLT,One way,Premium economy,Etihad,1,Not cancelled,Business Unit Charlie,Europe
+2023-05-01,ORD,CLT,One way,Premium economy,EasyJet,1,Not cancelled,Business Unit Charlie,Latin America
+2023-05-01,IST,SIN,One way,First,British Air,2,Not cancelled,Business Unit Charlie,APAC
+2023-05-01,ORD,ICN,One way,Premium economy,Southwest,2,Not cancelled,Business Unit Delta ,Europe
+2023-05-01,ATL,TPE,One way,First,Southwest,2,Not cancelled,Business Unit Bravo,APAC
+2023-05-01,AMS,EWR,One way,Economy,EasyJet,1,Not cancelled,Business Unit Bravo,Latin America
+2023-05-01,CDG,FRA,One way,Economy,EasyJet,2,Not cancelled,Business Unit Bravo,APAC
+2023-05-01,CDG,CAN,One way,First,EasyJet,1,Not cancelled,Business Unit Delta ,North America
+2023-05-01,LAX,HGH,One way,Premium economy,American Airlines,2,Not cancelled,Business Unit Echo,APAC
+2023-05-01,DFW,CLT,One way,Premium economy,Qantas,1,Not cancelled,Business Unit Charlie,Europe
+2023-05-01,DEN,BKK,One way,Business,Qantas,1,Not cancelled,Business Unit Charlie,Europe
+2023-05-01,DEL,MAD,One way,Business,Qantas,1,Not cancelled,Business Unit Delta ,North America
+2023-06-01,DFW,HND,One way,Premium economy,United,2,Not cancelled,Business Unit Bravo,Latin America
+2023-06-01,DEN,ICN,One way,Economy,United,2,Not cancelled,Business Unit Alpha ,Europe
+2023-06-01,JFK,MAD,One way,First,Qantas,2,Not cancelled,Business Unit Delta ,North America
+2023-06-01,LAX,CLT,One way,Economy,United,2,Not cancelled,Business Unit Bravo,Latin America
+2023-06-01,LAS,HGH,One way,Premium economy,Delta,2,Not cancelled,Business Unit Echo,North America
+2023-06-01,ORD,HGH,One way,Premium economy,American Airlines,1,Not cancelled,Business Unit Bravo,APAC
+2023-06-01,LAX,PEK,One way,Premium economy,British Air,1,Not cancelled,Business Unit Charlie,Latin America
+2023-06-01,MIA,MCO,One way,Business,Delta,2,Not cancelled,Business Unit Bravo,Latin America
+2023-06-01,JFK,PEK,One way,Premium economy,British Air,1,Not cancelled,Business Unit Echo,Latin America
+2023-06-01,ORD,MEX,One way,Economy,American Airlines,2,Not cancelled,Business Unit Delta ,North America
+2023-06-01,ATL,BKK,One way,Premium economy,British Air,2,Not cancelled,Business Unit Alpha ,Europe
+2023-06-01,AMS,TPE,One way,First,American Airlines,2,Not cancelled,Business Unit Echo,Europe
+2023-06-01,JFK,MAD,One way,Premium economy,Qantas,1,Cancelled,Business Unit Alpha ,Latin America
+2023-06-01,LAX,ICN,One way,Economy,Etihad,1,Not cancelled,Business Unit Charlie,North America
+2023-06-01,ATL,PVG,One way,Premium economy,Qantas,1,Not cancelled,Business Unit Alpha ,Latin America
+2023-06-01,DEL,FRA,One way,Premium economy,Southwest,2,Not cancelled,Business Unit Echo,Latin America
+2023-06-01,JFK,PVG,One way,First,EasyJet,1,Not cancelled,Business Unit Delta ,APAC
+2023-06-01,MIA,HGH,One way,First,Etihad,1,Cancelled,Business Unit Bravo,Europe
+2023-06-01,AMS,MEX,One way,Premium economy,United,1,Not cancelled,Business Unit Bravo,Europe
+2023-06-01,LHR,MEX,One way,Premium economy,Etihad,1,Not cancelled,Business Unit Charlie,Latin America
+2023-06-01,JFK,CLT,One way,First,American Airlines,1,Not cancelled,Business Unit Charlie,APAC
+2023-06-01,DFW,FRA,One way,Business,American Airlines,2,Not cancelled,Business Unit Bravo,APAC
+2023-06-01,JFK,HND,One way,Economy,Delta,1,Not cancelled,Business Unit Echo,Latin America
+2023-06-01,DEN,PVG,One way,Economy,Southwest,1,Not cancelled,Business Unit Alpha ,Latin America
+2023-06-01,IST,CAN,One way,First,United,1,Not cancelled,Business Unit Delta ,APAC
+2023-07-01,CDG,SEA,One way,Economy,United,2,Not cancelled,Business Unit Bravo,North America
+2023-07-01,DFW,CLT,One way,Business,Etihad,1,Not cancelled,Business Unit Delta ,APAC
+2023-07-01,IST,EWR,One way,First,British Air,1,Not cancelled,Business Unit Delta ,Europe
+2023-07-01,LAX,MAD,One way,First,Southwest,2,Not cancelled,Business Unit Echo,Latin America
+2023-07-01,IST,FRA,One way,Business,EasyJet,2,Not cancelled,Business Unit Delta ,APAC
+2023-07-01,DEN,CAN,One way,Business,Delta,2,Not cancelled,Business Unit Alpha ,Latin America
+2023-07-01,DFW,MEX,One way,Business,Delta,2,Not cancelled,Business Unit Charlie,APAC
+2023-07-01,CDG,EWR,One way,Economy,British Air,2,Not cancelled,Business Unit Delta ,Europe
+2023-07-01,DFW,MCO,One way,Economy,Etihad,1,Not cancelled,Business Unit Echo,APAC
+2023-07-01,MIA,CLT,One way,Premium economy,Qantas,2,Cancelled,Business Unit Bravo,APAC
+2023-07-01,DFW,FRA,One way,First,British Air,2,Not cancelled,Business Unit Delta ,APAC
+2023-07-01,ATL,CLT,One way,Premium economy,United,2,Not cancelled,Business Unit Charlie,Europe
+2023-07-01,IST,BKK,One way,First,Qantas,1,Not cancelled,Business Unit Echo,APAC
+2023-07-01,LAX,HND,One way,Business,British Air,2,Not cancelled,Business Unit Charlie,APAC
+2023-07-01,DXB,MCO,One way,First,Southwest,1,Not cancelled,Business Unit Echo,Europe
+2023-07-01,DXB,PVG,One way,Business,Southwest,1,Not cancelled,Business Unit Bravo,APAC
+2023-07-01,LAX,CLT,One way,Premium economy,Southwest,2,Not cancelled,Business Unit Alpha ,North America
+2023-07-01,DEN,MEX,One way,Business,Delta,2,Not cancelled,Business Unit Charlie,Latin America
+2023-07-01,JFK,SEA,One way,Economy,Southwest,2,Not cancelled,Business Unit Bravo,North America
+2023-07-01,LHR,MEX,One way,Premium economy,American Airlines,2,Not cancelled,Business Unit Echo,Latin America
+2023-07-01,ORD,HGH,One way,First,EasyJet,1,Not cancelled,Business Unit Charlie,Latin America
+2023-07-01,LAX,ICN,One way,First,EasyJet,1,Not cancelled,Business Unit Echo,APAC
+2023-07-01,IST,CLT,One way,Business,Southwest,2,Not cancelled,Business Unit Bravo,Latin America
+2023-07-01,DEL,MEX,One way,First,Southwest,2,Not cancelled,Business Unit Bravo,Europe
+2023-07-01,DEL,CAN,One way,Premium economy,EasyJet,2,Cancelled,Business Unit Bravo,North America
+2023-08-01,ORD,FRA,One way,Economy,EasyJet,2,Not cancelled,Business Unit Echo,Latin America
+2023-08-01,LAS,EWR,One way,Premium economy,EasyJet,1,Not cancelled,Business Unit Echo,APAC
+2023-08-01,DEL,CLT,One way,Economy,EasyJet,2,Not cancelled,Business Unit Echo,APAC
+2023-08-01,AMS,BKK,One way,Premium economy,EasyJet,1,Not cancelled,Business Unit Charlie,Latin America
+2023-08-01,ATL,SEA,One way,Business,EasyJet,1,Not cancelled,Business Unit Delta ,North America
+2023-08-01,DEL,CAN,One way,First,Southwest,1,Not cancelled,Business Unit Bravo,Latin America
+2023-08-01,CDG,HGH,One way,Business,Delta,2,Not cancelled,Business Unit Alpha ,Europe
+2023-08-01,MIA,CAN,One way,Business,EasyJet,1,Not cancelled,Business Unit Alpha ,Latin America
+2023-08-01,CDG,PEK,One way,Business,Delta,1,Not cancelled,Business Unit Charlie,APAC
+2023-08-01,ATL,HND,One way,Business,American Airlines,1,Not cancelled,Business Unit Alpha ,Latin America
+2023-08-01,LHR,PVG,One way,Premium economy,American Airlines,2,Not cancelled,Business Unit Charlie,APAC
+2023-08-01,IST,CAN,One way,First,British Air,2,Not cancelled,Business Unit Charlie,Europe
+2023-08-01,CDG,BKK,One way,Economy,EasyJet,1,Not cancelled,Business Unit Alpha ,Europe
+2023-08-01,IST,BKK,One way,Economy,EasyJet,2,Not cancelled,Business Unit Bravo,Latin America
+2023-08-01,CDG,ICN,One way,Premium economy,Delta,2,Not cancelled,Business Unit Delta ,Latin America
+2023-08-01,LAS,SIN,One way,Business,British Air,1,Not cancelled,Business Unit Echo,Europe
+2023-08-01,DEN,SIN,One way,Business,Delta,1,Not cancelled,Business Unit Delta ,APAC
+2023-08-01,IST,PVG,One way,First,American Airlines,1,Not cancelled,Business Unit Echo,North America
+2023-08-01,DXB,PEK,One way,First,Etihad,1,Not cancelled,Business Unit Bravo,North America
+2023-08-01,MIA,MCO,One way,Premium economy,Etihad,2,Not cancelled,Business Unit Bravo,Europe
+2023-08-01,DFW,HGH,One way,Premium economy,Southwest,2,Not cancelled,Business Unit Echo,Europe
+2023-08-01,LAS,MEX,One way,Economy,Qantas,1,Not cancelled,Business Unit Charlie,Latin America
+2023-08-01,JFK,MEX,One way,Business,United,1,Not cancelled,Business Unit Bravo,Latin America
+2023-08-01,LHR,CLT,One way,Premium economy,Etihad,2,Not cancelled,Business Unit Echo,Europe
+2023-08-01,DEL,CLT,One way,First,Delta,1,Not cancelled,Business Unit Bravo,North America
+2023-09-01,LAX,MAD,One way,Premium economy,EasyJet,1,Not cancelled,Business Unit Echo,Europe
+2023-09-01,ORD,PVG,One way,Economy,United,2,Not cancelled,Business Unit Bravo,Latin America
+2023-09-01,LAS,EWR,One way,Economy,Southwest,2,Not cancelled,Business Unit Echo,North America
+2023-09-01,DXB,ICN,One way,Business,American Airlines,2,Not cancelled,Business Unit Charlie,Europe
+2023-09-01,LAX,BKK,One way,First,Southwest,2,Not cancelled,Business Unit Delta ,Europe
+2023-09-01,DEL,ICN,One way,Business,Etihad,2,Not cancelled,Business Unit Echo,APAC
+2023-09-01,ORD,TPE,One way,Premium economy,EasyJet,2,Not cancelled,Business Unit Alpha ,Latin America
+2023-09-01,LHR,FRA,One way,Business,Etihad,2,Not cancelled,Business Unit Alpha ,North America
+2023-09-01,LHR,SEA,One way,Economy,Delta,1,Not cancelled,Business Unit Charlie,Latin America
+2023-09-01,AMS,HGH,One way,Business,Etihad,1,Not cancelled,Business Unit Echo,Latin America
+2023-09-01,CDG,MEX,One way,Economy,United,2,Not cancelled,Business Unit Echo,North America
+2023-09-01,ATL,SEA,One way,Premium economy,United,2,Not cancelled,Business Unit Echo,APAC
+2023-09-01,DFW,CAN,One way,Economy,Delta,2,Not cancelled,Business Unit Echo,Europe
+2023-09-01,DXB,BKK,One way,Premium economy,Southwest,1,Cancelled,Business Unit Charlie,Latin America
+2023-09-01,LAS,ICN,One way,Premium economy,American Airlines,2,Not cancelled,Business Unit Echo,Europe
+2023-09-01,LAS,SIN,One way,Business,Etihad,2,Not cancelled,Business Unit Echo,Europe
+2023-09-01,CDG,SEA,One way,Business,Delta,1,Not cancelled,Business Unit Delta ,North America
+2023-09-01,LAS,ICN,One way,First,British Air,1,Not cancelled,Business Unit Echo,Europe
+2023-09-01,DEN,BKK,One way,Business,American Airlines,1,Not cancelled,Business Unit Echo,Europe
+2023-09-01,DEN,CAN,One way,Business,EasyJet,2,Not cancelled,Business Unit Charlie,APAC
+2023-09-01,DEL,SIN,One way,Premium economy,Etihad,2,Not cancelled,Business Unit Bravo,North America
+2023-09-01,DFW,ICN,One way,Economy,EasyJet,1,Not cancelled,Business Unit Alpha ,Latin America
+2023-09-01,JFK,PEK,One way,First,EasyJet,2,Not cancelled,Business Unit Delta ,Europe
+2023-09-01,JFK,MEX,One way,Premium economy,American Airlines,1,Cancelled,Business Unit Bravo,Europe
+2023-09-01,LAX,PVG,One way,Premium economy,American Airlines,2,Not cancelled,Business Unit Delta ,Europe
+2023-10-01,DEN,CLT,One way,Economy,British Air,1,Not cancelled,Business Unit Alpha ,Europe
+2023-10-01,DFW,PEK,One way,Business,Delta,2,Not cancelled,Business Unit Charlie,APAC
+2023-10-01,LAS,PEK,One way,Business,American Airlines,1,Not cancelled,Business Unit Alpha ,North America
+2023-10-01,IST,FRA,One way,Economy,United,2,Not cancelled,Business Unit Echo,APAC
+2023-10-01,DEN,MAD,One way,Business,Southwest,2,Not cancelled,Business Unit Echo,Europe
+2023-10-01,CDG,ICN,One way,First,Southwest,2,Not cancelled,Business Unit Echo,Europe
+2023-10-01,DFW,SIN,One way,Economy,Delta,2,Not cancelled,Business Unit Delta ,North America
+2023-10-01,LAS,ICN,One way,Premium economy,Delta,1,Not cancelled,Business Unit Alpha ,APAC
+2023-10-01,DFW,MCO,One way,First,EasyJet,1,Not cancelled,Business Unit Alpha ,APAC
+2023-10-01,JFK,PEK,One way,Premium economy,British Air,1,Not cancelled,Business Unit Alpha ,Latin America
+2023-10-01,MIA,CAN,One way,Premium economy,EasyJet,1,Not cancelled,Business Unit Alpha ,Europe
+2023-10-01,JFK,MAD,One way,Economy,Etihad,1,Not cancelled,Business Unit Charlie,North America
+2023-10-01,LHR,TPE,One way,Economy,Southwest,2,Not cancelled,Business Unit Charlie,North America
+2023-10-01,MIA,ICN,One way,Economy,Southwest,2,Not cancelled,Business Unit Echo,Latin America
+2023-10-01,DEN,FRA,One way,First,EasyJet,1,Not cancelled,Business Unit Alpha ,Europe
+2023-10-01,AMS,TPE,One way,Economy,American Airlines,1,Not cancelled,Business Unit Alpha ,North America
+2023-10-01,ORD,MEX,One way,First,British Air,2,Not cancelled,Business Unit Delta ,APAC
+2023-10-01,LAX,BKK,One way,Premium economy,American Airlines,2,Not cancelled,Business Unit Bravo,APAC
+2023-10-01,JFK,PEK,One way,Business,United,2,Not cancelled,Business Unit Alpha ,North America
+2023-10-01,JFK,FRA,One way,Business,United,2,Not cancelled,Business Unit Echo,Latin America
+2023-10-01,ATL,HGH,One way,Premium economy,Delta,2,Not cancelled,Business Unit Delta ,Europe
+2023-10-01,LHR,MAD,One way,First,Southwest,1,Not cancelled,Business Unit Bravo,APAC
+2023-10-01,ORD,SEA,One way,First,EasyJet,2,Not cancelled,Business Unit Charlie,APAC
+2023-10-01,DEL,SEA,One way,Economy,Southwest,2,Not cancelled,Business Unit Delta ,APAC
+2023-10-01,ATL,HND,One way,First,Etihad,1,Not cancelled,Business Unit Alpha ,APAC
+2023-11-01,ATL,SIN,One way,Economy,American Airlines,1,Cancelled,Business Unit Alpha ,Europe
+2023-11-01,JFK,SEA,One way,First,Qantas,2,Not cancelled,Business Unit Alpha ,APAC
+2023-11-01,CDG,MCO,One way,Premium economy,American Airlines,1,Not cancelled,Business Unit Alpha ,APAC
+2023-11-01,DXB,HGH,One way,Business,Southwest,2,Not cancelled,Business Unit Alpha ,Latin America
+2023-11-01,DFW,PEK,One way,Premium economy,Qantas,2,Not cancelled,Business Unit Echo,North America
+2023-11-01,DFW,BKK,One way,Economy,United,2,Cancelled,Business Unit Alpha ,Europe
+2023-11-01,IST,CAN,One way,Economy,British Air,1,Not cancelled,Business Unit Echo,Latin America
+2023-11-01,CDG,BKK,One way,Premium economy,Southwest,1,Not cancelled,Business Unit Charlie,North America
+2023-11-01,LAX,CAN,One way,Economy,EasyJet,2,Not cancelled,Business Unit Alpha ,Latin America
+2023-11-01,JFK,HGH,One way,Premium economy,Delta,2,Not cancelled,Business Unit Bravo,North America
+2023-11-01,DXB,ICN,One way,Business,Etihad,1,Not cancelled,Business Unit Bravo,APAC
+2023-11-01,DEL,EWR,One way,Premium economy,Southwest,2,Not cancelled,Business Unit Delta ,North America
+2023-11-01,DXB,MCO,One way,Premium economy,American Airlines,1,Not cancelled,Business Unit Delta ,North America
+2023-11-01,DXB,ICN,One way,Business,British Air,2,Not cancelled,Business Unit Alpha ,Latin America
+2023-11-01,DEL,TPE,One way,Economy,Qantas,2,Not cancelled,Business Unit Bravo,APAC
+2023-11-01,MIA,SEA,One way,Business,American Airlines,1,Not cancelled,Business Unit Echo,North America
+2023-11-01,IST,MEX,One way,Business,Etihad,2,Not cancelled,Business Unit Alpha ,North America
+2023-11-01,DXB,BKK,One way,Premium economy,Southwest,1,Not cancelled,Business Unit Delta ,APAC
+2023-11-01,CDG,SIN,One way,Economy,Southwest,1,Not cancelled,Business Unit Delta ,Latin America
+2023-11-01,ORD,ICN,One way,Economy,Qantas,2,Not cancelled,Business Unit Bravo,APAC
+2023-11-01,MIA,CLT,One way,Premium economy,United,1,Not cancelled,Business Unit Alpha ,APAC
+2023-11-01,DFW,SIN,One way,Economy,Southwest,1,Not cancelled,Business Unit Echo,Latin America
+2023-11-01,LAS,ICN,One way,Premium economy,Qantas,2,Not cancelled,Business Unit Delta ,APAC
+2023-11-01,ATL,CLT,One way,Business,Delta,2,Not cancelled,Business Unit Charlie,APAC
+2023-11-01,LAX,TPE,One way,Premium economy,Delta,1,Not cancelled,Business Unit Alpha ,APAC
+2023-12-01,ATL,ICN,One way,Business,American Airlines,2,Not cancelled,Business Unit Charlie,APAC
+2023-12-01,ATL,SIN,One way,Business,British Air,1,Not cancelled,Business Unit Bravo,APAC
+2023-12-01,JFK,PVG,One way,Premium economy,British Air,2,Not cancelled,Business Unit Echo,APAC
+2023-12-01,LAS,HND,One way,Premium economy,American Airlines,1,Not cancelled,Business Unit Alpha ,Latin America
+2023-12-01,IST,CLT,One way,Premium economy,United,1,Not cancelled,Business Unit Bravo,APAC
+2023-12-01,DXB,PEK,One way,Economy,British Air,1,Not cancelled,Business Unit Alpha ,Latin America
+2023-12-01,CDG,CLT,One way,Economy,American Airlines,1,Not cancelled,Business Unit Echo,APAC
+2023-12-01,DFW,SIN,One way,Economy,American Airlines,1,Not cancelled,Business Unit Echo,APAC
+2023-12-01,JFK,MCO,One way,Business,British Air,1,Not cancelled,Business Unit Bravo,APAC
+2023-12-01,CDG,MAD,One way,Economy,American Airlines,1,Not cancelled,Business Unit Charlie,Latin America
+2023-12-01,DEN,HGH,One way,Business,Qantas,1,Not cancelled,Business Unit Delta ,APAC
+2023-12-01,JFK,SIN,One way,Economy,Qantas,2,Not cancelled,Business Unit Charlie,Latin America
+2023-12-01,DXB,SIN,One way,First,EasyJet,2,Not cancelled,Business Unit Alpha ,North America
+2023-12-01,MIA,MCO,One way,Premium economy,United,1,Not cancelled,Business Unit Delta ,APAC
+2023-12-01,MIA,PVG,One way,Premium economy,Delta,1,Not cancelled,Business Unit Charlie,North America
+2023-12-01,ORD,SEA,One way,First,Delta,2,Not cancelled,Business Unit Charlie,Latin America
+2023-12-01,CDG,SIN,One way,First,Delta,2,Not cancelled,Business Unit Alpha ,Latin America
+2023-12-01,CDG,PVG,One way,Business,Qantas,1,Not cancelled,Business Unit Alpha ,APAC
+2023-12-01,DEL,PEK,One way,First,Etihad,2,Not cancelled,Business Unit Delta ,Europe
+2023-12-01,LAX,BKK,One way,First,Southwest,2,Not cancelled,Business Unit Bravo,North America
+2023-12-01,DFW,MEX,One way,Premium economy,Southwest,2,Not cancelled,Business Unit Delta ,Europe
+2023-12-01,ATL,CAN,One way,Premium economy,EasyJet,1,Not cancelled,Business Unit Delta ,Europe
+2023-12-01,IST,HND,One way,Premium economy,Etihad,2,Not cancelled,Business Unit Alpha ,North America
+2023-12-01,ATL,SIN,One way,Economy,Qantas,2,Not cancelled,Business Unit Charlie,North America
+2023-12-01,MIA,HGH,One way,Economy,Southwest,2,Not cancelled,Business Unit Echo,APAC
