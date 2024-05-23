@@ -12,6 +12,22 @@ demos:
   #   datasetName: Utilities
   #   schemaId: cts_21155GF4xvX7L2RNEwHv
   #   schemaVersion: "1.0"
+  - filename: data/capex.csv
+    datasetName: Capital expenses
+    schemaId: cts_2115GzJ3nJqT4GqN7sE3
+    schemaVersion: "1.0"
+  - filename: data/opex.csv
+    datasetName: Operating expenses
+    schemaId: cts_2115GzJ3nJqT4GqN7sE3
+    schemaVersion: "1.0"
+  - filename: data/flights.csv
+    datasetName: Flights
+    schemaId: cts_21155GQ5spuJw53t7CwR
+    schemaVersion: "1.0"
+  - filename: data/hotels.csv
+    datasetName: Hotels
+    schemaId: cts_21155GTmvaN6XTRG2FHD
+    schemaVersion: "1.0"
 
   healthcare_demo:
   - filename: data/facilities.csv
